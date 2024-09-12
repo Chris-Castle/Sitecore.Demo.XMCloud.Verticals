@@ -56,6 +56,11 @@ const nextConfig = {
         hostname: 'feaas*.blob.core.windows.net',
         port: '',
       },
+      {
+        protocol: 'https',
+        hostname: 'chc-fruitful.sitecoresandbox.cloud',
+        port: '',
+      },
     ]
   },
 
