@@ -34,29 +34,16 @@
               "name": "regular",
               "style": "normal",
               "weight": 400,
-              "familyName": "Vidaloka"
+              "familyName": "Arimo"
             }
           ],
-          "familyName": "Vidaloka"
+          "familyName": "Arimo"
         },
         "details": {
           "id": "X3oLcjU5g4",
           "slug": "vidaloka",
-          "title": "Vidaloka",
+          "title": "Arimo",
           "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
           "exampleContent": null
         }
       },
@@ -109,19 +96,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -134,19 +108,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -183,6 +144,45 @@
         }
       },
       {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
+          "exampleContent": null
+        }
+      },
+      {
         "type": "theme",
         "props": {
           "texts": [
@@ -195,16 +195,6 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "_4_lC01VCn",
-              "refId": "r_P6klp057",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "f-B1wt-VXe",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
             },
             {
               "id": "lophpyJt4e",
@@ -255,6 +245,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "DjuSz2n-Ha",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
             }
           ],
           "blocks": [
@@ -269,16 +269,6 @@
               "typographyId": null
             },
             {
-              "id": "S49AMitt8g",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "eJJsY-EBHR",
               "refId": "cjmWGno2iw",
               "fillId": "blank-fill",
@@ -286,6 +276,16 @@
               "paletteId": null,
               "spacingId": "vyEuGvVG_h",
               "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "TwvWV7Z6yT",
+              "refId": "Zw8SoMU1it",
+              "fillId": "3fuiVmgH06",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": null,
               "typographyId": null
             }
           ],
@@ -301,20 +301,10 @@
               "typographyId": "blank-typography"
             },
             {
-              "id": "_RlWGNpszn",
-              "refId": "Urc8iFiGAS",
-              "fillId": "Li4x17rgZW",
-              "isDefault": true,
-              "paletteId": "_uWJKhwOew",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
               "id": "WbD4VwOkfL",
               "refId": "usMxSP4j7j",
               "fillId": "blank-fill",
-              "isDefault": false,
+              "isDefault": true,
               "paletteId": "LT-y4cQuhL",
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
@@ -3540,14 +3530,317 @@
           "description": "Badge",
           "collectionId": "default-typography",
           "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "O9tfsmWCBh",
+          "slug": "accents--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 255,
+          "blue": 255,
+          "alpha": 1,
+          "green": 255
+        },
+        "details": {
+          "id": "u6XzjladhK",
+          "slug": "accents--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "K85fdi30Gn",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "o15i-3m8hf",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "rINbk19GOs"
+          ],
+          "typographyIds": [
+            "RRbPrllH1F"
+          ]
+        },
+        "details": {
+          "id": "x0lhYczcT2",
+          "slug": "heading1--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "heading1",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "rINbk19GOs",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "x0lhYczcT2",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "block",
+        "props": {
+          "fillIds": [
+            "3fuiVmgH06"
+          ],
+          "gridIds": [],
+          "layoutIds": [
+            "blank-layout"
+          ],
+          "paletteIds": [
+            "blank-palette"
+          ],
+          "spacingIds": [
+            "fFvdpvmDVY",
+            "xjL64DD0xr",
+            "vyEuGvVG_h"
+          ],
+          "decorationIds": []
+        },
+        "details": {
+          "id": "Zw8SoMU1it",
+          "slug": "card--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "card",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "fill",
+        "props": {
+          "blur": {
+            "unit": "px",
+            "value": 0
+          },
+          "opacity": 1,
+          "backgroundSize": "cover",
+          "backgroundColor": {
+            "id": "u6XzjladhK",
+            "alpha": 1
+          },
+          "backgroundImage": "",
+          "backgroundRepeat": "repeat",
+          "backgroundGradient": {
+            "angle": 0,
+            "stops": []
+          },
+          "backgroundPositionX": {
+            "unit": "%",
+            "value": 50
+          },
+          "backgroundPositionY": {
+            "unit": "%",
+            "value": 50
+          }
+        },
+        "details": {
+          "id": "3fuiVmgH06",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "Zw8SoMU1it",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "theme",
+        "props": {
+          "texts": [
+            {
+              "id": "yIy-ZfXZd6",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "4rUkNTEQyh"
+            },
+            {
+              "id": "UZSVM_TDVP",
+              "refId": "GzadtTAYI7",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "U_6AagcxNc",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "54BFrXTQSd",
+              "refId": "geSla7Xlzs",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "MfgnRw9WIq",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "suz7z12-Q4",
+              "refId": "WLv6gokq9-",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "OMB2_usqI1",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "R3s9nmKvGd",
+              "refId": "1C6SbjHopY",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "6su5aiIuuX",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "avo_3yYUns",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "u0PYxPoUm3",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
+            }
+          ],
+          "blocks": [
+            {
+              "id": "D5QwWJQJvC",
+              "refId": "_c2dFq43b5",
+              "fillId": "qPdWDKOgzq",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "1Pbz5auvuy",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "c4a5PnQW82",
+              "refId": "cjmWGno2iw",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "vyEuGvVG_h",
+              "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "JSrHG0OAda",
+              "refId": "VwoNQPVj2x",
+              "fillId": "ouihEJ_Hz6",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": "aP-NtLgXV5",
+              "typographyId": null
+            }
+          ],
+          "inlines": [
+            {
+              "id": "wPafT_ffQb",
+              "refId": "dqLRKe5Qlc",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "q5cZLhYzIt",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "blank-typography"
+            },
+            {
+              "id": "JzHVgU4DjA",
+              "refId": "usMxSP4j7j",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "LT-y4cQuhL",
+              "spacingId": "n9dYS5_hTQ",
+              "decorationId": "VovX5THpgY",
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "EStXfcdASl",
+              "refId": "WKjnLD6N6s",
+              "fillId": "kxUlIZtBjS",
+              "isDefault": true,
+              "paletteId": "dQlUxm_s4I",
+              "spacingId": "Ee64M7-v7r",
+              "decorationId": "xoNn3Y9FE9",
+              "typographyId": "WwI29oLNHY"
+            }
+          ]
+        },
+        "details": {
+          "id": "oY-ZO51ZIp",
+          "slug": "bnsf",
+          "title": "bnsf",
+          "description": "",
+          "exampleContent": null
         }
       }
     ],
     "formatVersion": 30,
     "status": "saved",
-    "revision": 2,
-    "createdAt": "2024-09-11T23:28:00.041Z",
-    "modifiedAt": "2024-09-11T23:28:00.041Z"
+    "revision": 20,
+    "createdAt": "2024-09-12T01:17:28.402Z",
+    "modifiedAt": "2024-09-12T04:03:49.728Z"
   },
   {
     "libraryId": "generated",
@@ -3584,29 +3877,16 @@
               "name": "regular",
               "style": "normal",
               "weight": 400,
-              "familyName": "Vidaloka"
+              "familyName": "Arimo"
             }
           ],
-          "familyName": "Vidaloka"
+          "familyName": "Arimo"
         },
         "details": {
           "id": "X3oLcjU5g4",
           "slug": "vidaloka",
-          "title": "Vidaloka",
+          "title": "Arimo",
           "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
           "exampleContent": null
         }
       },
@@ -3659,19 +3939,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -3684,19 +3951,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -3733,6 +3987,45 @@
         }
       },
       {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
+          "exampleContent": null
+        }
+      },
+      {
         "type": "theme",
         "props": {
           "texts": [
@@ -3745,16 +4038,6 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "_4_lC01VCn",
-              "refId": "r_P6klp057",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "f-B1wt-VXe",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
             },
             {
               "id": "lophpyJt4e",
@@ -3805,6 +4088,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "DjuSz2n-Ha",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
             }
           ],
           "blocks": [
@@ -3819,16 +4112,6 @@
               "typographyId": null
             },
             {
-              "id": "S49AMitt8g",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "eJJsY-EBHR",
               "refId": "cjmWGno2iw",
               "fillId": "blank-fill",
@@ -3836,6 +4119,16 @@
               "paletteId": null,
               "spacingId": "vyEuGvVG_h",
               "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "TwvWV7Z6yT",
+              "refId": "Zw8SoMU1it",
+              "fillId": "3fuiVmgH06",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": null,
               "typographyId": null
             }
           ],
@@ -3851,20 +4144,10 @@
               "typographyId": "blank-typography"
             },
             {
-              "id": "_RlWGNpszn",
-              "refId": "Urc8iFiGAS",
-              "fillId": "Li4x17rgZW",
-              "isDefault": true,
-              "paletteId": "_uWJKhwOew",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
               "id": "WbD4VwOkfL",
               "refId": "usMxSP4j7j",
               "fillId": "blank-fill",
-              "isDefault": false,
+              "isDefault": true,
               "paletteId": "LT-y4cQuhL",
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
@@ -7090,14 +7373,317 @@
           "description": "Badge",
           "collectionId": "default-typography",
           "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "O9tfsmWCBh",
+          "slug": "accents--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 255,
+          "blue": 255,
+          "alpha": 1,
+          "green": 255
+        },
+        "details": {
+          "id": "u6XzjladhK",
+          "slug": "accents--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "K85fdi30Gn",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "o15i-3m8hf",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "rINbk19GOs"
+          ],
+          "typographyIds": [
+            "RRbPrllH1F"
+          ]
+        },
+        "details": {
+          "id": "x0lhYczcT2",
+          "slug": "heading1--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "heading1",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "rINbk19GOs",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "x0lhYczcT2",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "block",
+        "props": {
+          "fillIds": [
+            "3fuiVmgH06"
+          ],
+          "gridIds": [],
+          "layoutIds": [
+            "blank-layout"
+          ],
+          "paletteIds": [
+            "blank-palette"
+          ],
+          "spacingIds": [
+            "fFvdpvmDVY",
+            "xjL64DD0xr",
+            "vyEuGvVG_h"
+          ],
+          "decorationIds": []
+        },
+        "details": {
+          "id": "Zw8SoMU1it",
+          "slug": "card--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "card",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "fill",
+        "props": {
+          "blur": {
+            "unit": "px",
+            "value": 0
+          },
+          "opacity": 1,
+          "backgroundSize": "cover",
+          "backgroundColor": {
+            "id": "u6XzjladhK",
+            "alpha": 1
+          },
+          "backgroundImage": "",
+          "backgroundRepeat": "repeat",
+          "backgroundGradient": {
+            "angle": 0,
+            "stops": []
+          },
+          "backgroundPositionX": {
+            "unit": "%",
+            "value": 50
+          },
+          "backgroundPositionY": {
+            "unit": "%",
+            "value": 50
+          }
+        },
+        "details": {
+          "id": "3fuiVmgH06",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "Zw8SoMU1it",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "theme",
+        "props": {
+          "texts": [
+            {
+              "id": "yIy-ZfXZd6",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "4rUkNTEQyh"
+            },
+            {
+              "id": "UZSVM_TDVP",
+              "refId": "GzadtTAYI7",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "U_6AagcxNc",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "54BFrXTQSd",
+              "refId": "geSla7Xlzs",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "MfgnRw9WIq",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "suz7z12-Q4",
+              "refId": "WLv6gokq9-",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "OMB2_usqI1",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "R3s9nmKvGd",
+              "refId": "1C6SbjHopY",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "6su5aiIuuX",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "avo_3yYUns",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "u0PYxPoUm3",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
+            }
+          ],
+          "blocks": [
+            {
+              "id": "D5QwWJQJvC",
+              "refId": "_c2dFq43b5",
+              "fillId": "qPdWDKOgzq",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "1Pbz5auvuy",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "c4a5PnQW82",
+              "refId": "cjmWGno2iw",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "vyEuGvVG_h",
+              "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "JSrHG0OAda",
+              "refId": "VwoNQPVj2x",
+              "fillId": "ouihEJ_Hz6",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": "aP-NtLgXV5",
+              "typographyId": null
+            }
+          ],
+          "inlines": [
+            {
+              "id": "wPafT_ffQb",
+              "refId": "dqLRKe5Qlc",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "q5cZLhYzIt",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "blank-typography"
+            },
+            {
+              "id": "JzHVgU4DjA",
+              "refId": "usMxSP4j7j",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "LT-y4cQuhL",
+              "spacingId": "n9dYS5_hTQ",
+              "decorationId": "VovX5THpgY",
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "EStXfcdASl",
+              "refId": "WKjnLD6N6s",
+              "fillId": "kxUlIZtBjS",
+              "isDefault": true,
+              "paletteId": "dQlUxm_s4I",
+              "spacingId": "Ee64M7-v7r",
+              "decorationId": "xoNn3Y9FE9",
+              "typographyId": "WwI29oLNHY"
+            }
+          ]
+        },
+        "details": {
+          "id": "oY-ZO51ZIp",
+          "slug": "bnsf",
+          "title": "bnsf",
+          "description": "",
+          "exampleContent": null
         }
       }
     ],
     "formatVersion": 30,
     "status": "staged",
-    "revision": 1,
-    "createdAt": "2024-09-11T23:28:00.028Z",
-    "modifiedAt": "2024-09-11T23:28:00.028Z"
+    "revision": 20,
+    "createdAt": "2024-09-12T01:17:28.402Z",
+    "modifiedAt": "2024-09-12T04:03:49.728Z"
   },
   {
     "libraryId": "generated",
@@ -7134,29 +7720,16 @@
               "name": "regular",
               "style": "normal",
               "weight": 400,
-              "familyName": "Vidaloka"
+              "familyName": "Arimo"
             }
           ],
-          "familyName": "Vidaloka"
+          "familyName": "Arimo"
         },
         "details": {
           "id": "X3oLcjU5g4",
           "slug": "vidaloka",
-          "title": "Vidaloka",
+          "title": "Arimo",
           "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "large-collection",
-          "slug": "large",
-          "title": "Large",
-          "description": "Large tablets, desktops, tvs",
           "exampleContent": null
         }
       },
@@ -7209,19 +7782,6 @@
         }
       },
       {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "medium-collection",
-          "slug": "breakpoint--collection--medium",
-          "title": "Medium",
-          "description": "Phones in landscape, tablets",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "breakpoint",
         "props": {
           "query": "(min-width: 768px) and (max-width: 991px)",
@@ -7234,19 +7794,6 @@
           "title": "Medium",
           "description": "",
           "collectionId": "medium-collection",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "collection",
-        "props": {
-          "type": "breakpoint"
-        },
-        "details": {
-          "id": "small-collection",
-          "slug": "breakpoint--collection--small",
-          "title": "Small",
-          "description": "Mobile phones and tiny screens",
           "exampleContent": null
         }
       },
@@ -7283,6 +7830,45 @@
         }
       },
       {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "large-collection",
+          "slug": "large",
+          "title": "Large",
+          "description": "Large tablets, desktops, tvs",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "medium-collection",
+          "slug": "breakpoint--collection--medium",
+          "title": "Medium",
+          "description": "Phones in landscape, tablets",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "collection",
+        "props": {
+          "type": "breakpoint"
+        },
+        "details": {
+          "id": "small-collection",
+          "slug": "breakpoint--collection--small",
+          "title": "Small",
+          "description": "Mobile phones and tiny screens",
+          "exampleContent": null
+        }
+      },
+      {
         "type": "theme",
         "props": {
           "texts": [
@@ -7295,16 +7881,6 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "_4_lC01VCn",
-              "refId": "r_P6klp057",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "f-B1wt-VXe",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
             },
             {
               "id": "lophpyJt4e",
@@ -7355,6 +7931,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "DjuSz2n-Ha",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
             }
           ],
           "blocks": [
@@ -7369,16 +7955,6 @@
               "typographyId": null
             },
             {
-              "id": "S49AMitt8g",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "eJJsY-EBHR",
               "refId": "cjmWGno2iw",
               "fillId": "blank-fill",
@@ -7386,6 +7962,16 @@
               "paletteId": null,
               "spacingId": "vyEuGvVG_h",
               "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "TwvWV7Z6yT",
+              "refId": "Zw8SoMU1it",
+              "fillId": "3fuiVmgH06",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": null,
               "typographyId": null
             }
           ],
@@ -7401,20 +7987,10 @@
               "typographyId": "blank-typography"
             },
             {
-              "id": "_RlWGNpszn",
-              "refId": "Urc8iFiGAS",
-              "fillId": "Li4x17rgZW",
-              "isDefault": true,
-              "paletteId": "_uWJKhwOew",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
               "id": "WbD4VwOkfL",
               "refId": "usMxSP4j7j",
               "fillId": "blank-fill",
-              "isDefault": false,
+              "isDefault": true,
               "paletteId": "LT-y4cQuhL",
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
@@ -10641,12 +11217,315 @@
           "collectionId": "default-typography",
           "exampleContent": "Example"
         }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "O9tfsmWCBh",
+          "slug": "accents--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "color",
+        "props": {
+          "red": 255,
+          "blue": 255,
+          "alpha": 1,
+          "green": 255
+        },
+        "details": {
+          "id": "u6XzjladhK",
+          "slug": "accents--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "K85fdi30Gn",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "o15i-3m8hf",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "rINbk19GOs"
+          ],
+          "typographyIds": [
+            "RRbPrllH1F"
+          ]
+        },
+        "details": {
+          "id": "x0lhYczcT2",
+          "slug": "heading1--accent",
+          "title": "Accent",
+          "description": "",
+          "collectionId": "heading1",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "O9tfsmWCBh",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "rINbk19GOs",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "x0lhYczcT2",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "block",
+        "props": {
+          "fillIds": [
+            "3fuiVmgH06"
+          ],
+          "gridIds": [],
+          "layoutIds": [
+            "blank-layout"
+          ],
+          "paletteIds": [
+            "blank-palette"
+          ],
+          "spacingIds": [
+            "fFvdpvmDVY",
+            "xjL64DD0xr",
+            "vyEuGvVG_h"
+          ],
+          "decorationIds": []
+        },
+        "details": {
+          "id": "Zw8SoMU1it",
+          "slug": "card--white",
+          "title": "White",
+          "description": "",
+          "collectionId": "card",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "fill",
+        "props": {
+          "blur": {
+            "unit": "px",
+            "value": 0
+          },
+          "opacity": 1,
+          "backgroundSize": "cover",
+          "backgroundColor": {
+            "id": "u6XzjladhK",
+            "alpha": 1
+          },
+          "backgroundImage": "",
+          "backgroundRepeat": "repeat",
+          "backgroundGradient": {
+            "angle": 0,
+            "stops": []
+          },
+          "backgroundPositionX": {
+            "unit": "%",
+            "value": 50
+          },
+          "backgroundPositionY": {
+            "unit": "%",
+            "value": 50
+          }
+        },
+        "details": {
+          "id": "3fuiVmgH06",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "Zw8SoMU1it",
+          "description": "",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "theme",
+        "props": {
+          "texts": [
+            {
+              "id": "yIy-ZfXZd6",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "4rUkNTEQyh"
+            },
+            {
+              "id": "UZSVM_TDVP",
+              "refId": "GzadtTAYI7",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "U_6AagcxNc",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "54BFrXTQSd",
+              "refId": "geSla7Xlzs",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "MfgnRw9WIq",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
+            },
+            {
+              "id": "suz7z12-Q4",
+              "refId": "WLv6gokq9-",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "OMB2_usqI1",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "R3s9nmKvGd",
+              "refId": "1C6SbjHopY",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "6su5aiIuuX",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "xPQTMRK-v_"
+            },
+            {
+              "id": "avo_3yYUns",
+              "refId": "Bapp_B91w4",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "E85e0KXcyt",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "u0PYxPoUm3",
+              "refId": "x0lhYczcT2",
+              "fillId": null,
+              "isDefault": true,
+              "paletteId": "rINbk19GOs",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "RRbPrllH1F"
+            }
+          ],
+          "blocks": [
+            {
+              "id": "D5QwWJQJvC",
+              "refId": "_c2dFq43b5",
+              "fillId": "qPdWDKOgzq",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "1Pbz5auvuy",
+              "decorationId": "blank-decoration",
+              "typographyId": null
+            },
+            {
+              "id": "c4a5PnQW82",
+              "refId": "cjmWGno2iw",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "vyEuGvVG_h",
+              "decorationId": "VovX5THpgY",
+              "typographyId": null
+            },
+            {
+              "id": "JSrHG0OAda",
+              "refId": "VwoNQPVj2x",
+              "fillId": "ouihEJ_Hz6",
+              "isDefault": true,
+              "paletteId": null,
+              "spacingId": "fFvdpvmDVY",
+              "decorationId": "aP-NtLgXV5",
+              "typographyId": null
+            }
+          ],
+          "inlines": [
+            {
+              "id": "wPafT_ffQb",
+              "refId": "dqLRKe5Qlc",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "q5cZLhYzIt",
+              "spacingId": "blank-spacing",
+              "decorationId": "blank-decoration",
+              "typographyId": "blank-typography"
+            },
+            {
+              "id": "JzHVgU4DjA",
+              "refId": "usMxSP4j7j",
+              "fillId": "blank-fill",
+              "isDefault": true,
+              "paletteId": "LT-y4cQuhL",
+              "spacingId": "n9dYS5_hTQ",
+              "decorationId": "VovX5THpgY",
+              "typographyId": "BE4HzzbSR1"
+            },
+            {
+              "id": "EStXfcdASl",
+              "refId": "WKjnLD6N6s",
+              "fillId": "kxUlIZtBjS",
+              "isDefault": true,
+              "paletteId": "dQlUxm_s4I",
+              "spacingId": "Ee64M7-v7r",
+              "decorationId": "xoNn3Y9FE9",
+              "typographyId": "WwI29oLNHY"
+            }
+          ]
+        },
+        "details": {
+          "id": "oY-ZO51ZIp",
+          "slug": "bnsf",
+          "title": "bnsf",
+          "description": "",
+          "exampleContent": null
+        }
       }
     ],
     "formatVersion": 30,
     "status": "published",
-    "revision": 0,
-    "createdAt": "2024-09-11T23:28:00.012Z",
-    "modifiedAt": "2024-09-11T23:28:00.012Z"
+    "revision": 20,
+    "createdAt": "2024-09-12T01:17:28.402Z",
+    "modifiedAt": "2024-09-12T04:03:49.728Z"
   }
 ]

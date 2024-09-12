@@ -75,16 +75,23 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Product teaser list",
         "description": "",
-        "status": "changed",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 2,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
-        "stagedAt": null,
-        "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2024-09-11T23:28:00.182Z",
-        "modifiedBy": {},
+        "stagedAt": "2023-06-09T10:17:20.928Z",
+        "publishedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
         "bundles": []
       },
       {
@@ -119,9 +126,47 @@
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
-    "orderIdx": null,
+    "orderIdx": "",
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
-    "components": []
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "p9C5eEa6Rj",
+        "collectionId": "default",
+        "name": "Home Hero",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-09-12T03:49:08.085Z",
+        "stagedAt": "2024-09-12T04:06:24.447Z",
+        "publishedAt": "2024-09-12T04:06:24.447Z",
+        "modifiedAt": "2024-09-12T04:06:24.447Z",
+        "modifiedBy": {
+          "id": "63c71ee3fdfc61dc2bb22c32",
+          "name": "Christopher Castle",
+          "email": "chris.castle@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png",
+          "givenName": "Christopher",
+          "familyName": "Castle"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "p9C5eEa6Rj",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-12T03:49:17.028Z",
+            "modifiedAt": "2024-09-12T03:49:17.028Z"
+          }
+        ]
+      }
+    ]
   }
 ]

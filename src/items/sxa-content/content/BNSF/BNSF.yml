@@ -3,7 +3,6 @@ ID: "a343b717-ce2b-49fa-a5b8-5f6030340ddd"
 Parent: "85ba19cf-caac-4215-a771-3f988c9c3426"
 Template: "eedf60fe-6a2d-4c9c-afbd-eaec9334d4d3"
 Path: /sitecore/content/BNSF/BNSF
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
@@ -25,7 +24,7 @@ SharedFields:
     {ED6C4A9B-E3DC-413A-BEF6-337ABB7FD2C7}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{4BFEA307-1AAF-4675-BE7A-A52ABFF59DCC}"
+  Value: "{B4002F63-FD77-4F8A-B9EE-B1BC7B4DCF59}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{451A9E1E-726C-4467-9BB0-429433082830}"
@@ -45,4 +44,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dc59f9fa-2c7e-478f-a7ed-2391fccd640a"
+      Value: "abacc061-d1fd-4c64-b8f6-a859243e35ee"
