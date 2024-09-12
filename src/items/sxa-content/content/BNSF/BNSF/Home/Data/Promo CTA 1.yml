@@ -1,0 +1,13 @@
+﻿---
+ID: "c73be936-fbbe-41dd-81ae-88135a692a79"
+Parent: "81271ce6-00ab-4b28-9d6e-759aa2fc7c19"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/BNSF/BNSF/Home/Data/Promo CTA 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60de770f-4909-4c6f-9ad8-a3e538393e91"

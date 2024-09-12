@@ -1,0 +1,26 @@
+﻿---
+ID: "c06888d4-4cc9-4870-a9b5-e90c45442f18"
+Parent: "58ccc562-769f-4573-8520-545f0a3679b1"
+Template: "e1d0caff-4e6c-4fcd-b8ed-d9865532720a"
+Path: /sitecore/content/BNSF/BNSF/Data/Heros/This is BNSF Spring
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "38850f2e-8e35-4c39-b1b2-b0c7cac5a5d0"
+      Hint: Image
+      Value: |
+        <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/5ac244511231405c87a6ae7cd088ae60?v=5403b5e4" dam-id="x0bUqwbmR_GwJJzmNeS21w" width="1262" height="487" alt="bnsf-spring-hero-index.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38172/thumbnail" />
+    - ID: "3b02178c-0713-4d70-bec7-d7ff0a1fb346"
+      Hint: Description
+      Value: <p>Our Virtual Train Tour has information about our trains, how we operate them, and a variety of railcars we haul.</p>
+    - ID: "6ff28785-0b56-4d85-b8c4-46b0e9053706"
+      Hint: Button Text
+      Value: TAKE THE TOUR
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee59782b-59b5-45da-9f69-2240f51f5eea"
+    - ID: "ac0d1b60-20b4-4426-acbd-c51e2cb90b82"
+      Hint: Title
+      Value: THIS IS BNSF

@@ -7,11 +7,11 @@ SharedFields:
 - ID: "0901568e-626d-4f62-90a4-12a7202b71c8"
   Hint: BackgroundImage
   Value: |
-    <image mediaid="{10CB9C1E-EDEB-45AE-9598-EAD7CF3B3204}" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace="" />
+    <image mediaid="{02887E8A-F8E5-4F9E-BCA3-111846D25985}" alt="train" height="" width="" hspace="" vspace="" />
 - ID: "1a391047-5944-424d-b5bc-5579bd316f9e"
   Hint: Thumbnail
   Value: |
-    <image mediaid="{32909CAB-5F82-4428-A428-DF531E7776DD}" alt="Market report" height="" width="" hspace="" vspace="" />
+    <image mediaid="{398A1760-4546-4E21-919B-7C5396473FE4}" alt="train closeup" height="" width="" hspace="" vspace="" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -43,19 +43,13 @@ Languages:
       Value: $name
     - ID: "6af5e630-e9ca-4dff-8689-357cf44dcd3d"
       Hint: Content
-      Value: |
-        <p><strong>Lorem Ipsum Finance</strong></p>
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper neque id elit convallis, at varius lorem aliquet. Phasellus consequat, ante sed tristique commodo, felis mi vehicula justo, id finibus neque velit vitae nunc.</p>
-        <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin at mauris vel purus vestibulum consectetur. Nam efficitur lectus auctor, hendrerit ligula nec, pharetra ex.</p>
-        <p>Suspendisse potenti. Sed ac arcu scelerisque, hendrerit risus eu, ultricies libero. Pellentesque ut magna eu elit fringilla viverra. Quisque ullamcorper orci a magna finibus, nec feugiat urna semper. Praesent blandit purus vel ligula finibus, nec fermentum dui ultrices. Nulla vitae justo a felis luctus dignissim. Aliquam eu tortor eget libero placerat semper.</p>
-        <p>In consequat, libero sed viverra placerat, metus lectus accumsan velit, a suscipit elit dui sit amet justo. Fusce vitae purus vel justo aliquam hendrerit. Integer pretium mi vel ex convallis, vel dignissim ex finibus.</p>
+      Value: <p>Enter the body copy here</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21d8b8af-881c-4cf8-ad06-fc6c953acd85"
+      Value: "d46a8a33-5e02-4050-a635-169a0792c866"
     - ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
       Hint: Excerpt
-      Value: Discover the keys to financial literacy with expert insights on budgeting, saving, investing, and retirement planning. Uncover practical tips and strategies to take control of your finances and build a secure future for you and your family.
+      Value: Enter the excerpt
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -77,7 +71,7 @@ Languages:
         <p>In consequat, libero sed viverra placerat, metus lectus accumsan velit, a suscipit elit dui sit amet justo. Fusce vitae purus vel justo aliquam hendrerit. Integer pretium mi vel ex convallis, vel dignissim ex finibus.</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "108f2a5e-e4b9-4f69-a8d8-34bcaeb4dec7"
+      Value: "88e5cb13-f618-437b-868a-60470939b3de"
     - ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
       Hint: Excerpt
       Value: Découvrez les clés de la littératie financière grâce aux conseils d'experts en budgétisation, épargne, investissement et planification de la retraite. Découvrez des astuces et des stratégies pratiques pour prendre le contrôle de vos finances et bâtir un avenir sûr pour vous et votre famille.

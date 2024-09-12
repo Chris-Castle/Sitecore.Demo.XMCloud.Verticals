@@ -1,0 +1,20 @@
+﻿---
+ID: "4f7bf221-c8a4-4595-b463-8c1d96c8f8e8"
+Parent: "92058b22-459a-4eb4-bfa5-1a637aef9348"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/BNSF/BNSF/Home/News/BNSF reaches tentative collective agreements with two additional labor unions/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfe1fdb0-24f3-479b-9eee-435c647972c0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb1beeb7-f135-479e-ba59-4eea42f97a6d"

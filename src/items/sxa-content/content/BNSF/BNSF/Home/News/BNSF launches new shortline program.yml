@@ -1,0 +1,123 @@
+﻿---
+ID: "baf9392e-53a0-4152-a2cc-8c2dc7f21956"
+Parent: "ca683942-6c2e-4b22-a9e7-086a57676953"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: /sitecore/content/BNSF/BNSF/Home/News/BNSF launches new shortline program
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{048704CA-9F47-47C4-A9F4-D6A2FC5C4E1B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
+- ID: "ad26114f-29dd-4ef9-b5bf-1d64d558872d"
+  Hint: BackgroundImage
+  Value: |
+    <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/5ac244511231405c87a6ae7cd088ae60?v=cb773204" dam-id="x0bUqwbmR_GwJJzmNeS21w" width="1262" height="487" alt="bnsf-spring-hero-index.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38172/thumbnail" />
+- ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
+  Hint: Thumbnail
+  Value: |
+    <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/f7bb9a5a08514979b55d9c263f0c371d?v=be3b5785" dam-id="pexEN-vZSMqhzc6Gwv_nnA" width="1200" height="800" alt="bnsf-close-up-train.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38170/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}"
+          s:ds="50f7c322-1c9f-4f58-a93b-2157be20bf50" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: BNSF launches new shortline program
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        
+        <p>FORT WORTH, Texas &amp; JACKSONVILLE, Fla., &ndash; BNSF Railway, one of North America&rsquo;s leading transportation companies, announced this week the launch of its new shortline program, Shortline Select. The Class I railroad is partnering with Genesee &amp; Wyoming&rsquo;s Alabama &amp; Gulf Coast Railway (AGR) as the first shortline railroad to participate.</p>
+        <p>Shortline Select allows shortline railroads to share BNSF&rsquo;s enduring commitment to growth and superior service by providing expanded opportunities for customers to reach an even broader consumer base. The program combines the benefit of shortline customized service with BNSF&rsquo;s vast network reach, which spans 32,500 miles, 28 states and three Canadian provinces.&nbsp;</p>
+        <p>&ldquo;We&rsquo;re excited to launch our new Shortline Select program with G&amp;W&rsquo;s Alabama &amp; Gulf Coast Railway,&rdquo; said BNSF Executive Vice President and Chief Marketing Officer Tom Williams. &ldquo;This new program is demonstrative of BNSF&rsquo;s ongoing commitment to expanding and improving to meet our customer&rsquo;s growing needs. Through Shortline Select, we will collaborate closely with AGR to deliver a more streamlined supply chain with enhanced visibility on interchanges, while showcasing our shared commitment to delivering excellent service for our joint customers.&rdquo;</p>
+        <p>&ldquo;Alabama &amp; Gulf Coast Railway provides important rail services to industries along the Gulf Coast and into Alabama and Mississippi,&rdquo; said G&amp;W&rsquo;s Chief Customer Officer Mike Peters. &ldquo;Our collaboration with BNSF will improve service and generate multimodal solutions for those industries and demonstrates that shortlines and Class I railroads alike are focused on growth for our customers and the communities we serve.&rdquo;&nbsp;</p>
+        <p>The goal of Shortline Select is to drive growth by improving service performance with participating shortlines through:</p>
+        <ul style="color: #585858; margin: 0px; padding: 0px 0px 15px 35px; border: none; list-style-image: initial; line-height: inherit;">
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;">Enhanced communication</li>
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;">Seamless movement tracking</li>
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;">Data transparency</li>
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;">Faster equipment turns/Reduced dwell</li>
+        </ul>
+        <p>As a participant in Shortline Select, AGR will collaborate with BNSF on the Class I railroad&rsquo;s economic development and growth initiatives through:&nbsp;</p>
+        <ul style="color: #585858; margin: 0px; padding: 0px 0px 15px 35px; border: none; list-style-image: initial; line-height: inherit;">
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;"><span style="margin: 0px; padding: 0px; border: none; line-height: inherit; color: #000000;"><a href="https://www.bnsf.com/ship-with-bnsf/ways-of-shipping/door-to-door-transload.html" class="local-link" style="color: #f85d13; margin: 0px; padding: 0px; border: none; line-height: inherit;"><span style="margin: 0px; padding: 0px; border: none; line-height: inherit; color: #000000;">Premier Transloads</span></a></span>&nbsp;&ndash; Transload providers on AGR may be included in BNSF&rsquo;s Premier Transload Program, a network of more than 400 transloaders across the BNSF system.</li>
+            <li style="margin: 0px; padding: 0px 0px 5px; border: none; line-height: 1.25;"><a href="https://www.bnsf.com/ship-with-bnsf/rail-development/certified-sites.page" class="local-link" style="color: #f85d13; margin: 0px; padding: 0px; border: none; line-height: inherit;"><span style="margin: 0px; padding: 0px; border: none; line-height: inherit; color: #000000;">Certified Sites</span></a>&nbsp;&ndash; Select locations on AGR may be eligible for BNSF&rsquo;s Certified Site designation, which is an inventory of available, rail-ready industrial sites that are pre-approved for development, increasing speed to market.</li>
+        </ul>
+        <p>Shortline Select shortlines will partner with BNSF on a suite of operational process improvements and have pre-defined economic arrangements with BNSF that enable expedited responsiveness to customer rate requests. BNSF looks forward to welcoming additional shortlines to the program in the future.</p>
+        <p>&nbsp;</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{3BC605DE-BBED-4E1E-8A00-AAAF30E48CAA}"
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: BNSF launches new shortline program with G&W’s Alabama & Gulf Coast Railway as premiere partner
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: BNSF launches new shortline program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "249e5552-e549-4024-8795-357fd21b4d2f"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: BNSF launches new shortline program
+- Language: "fr-CA"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "On vous présente MOBILE! Finance"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        <p><strong>La puissance de MOBILE! Finance</strong></p>
+        <p>MOBILE! Finance est bien plus qu'une simple application financière&mdash;c'est votre compagnon financier ultime, offrant une suite complète de fonctionnalités et d'outils pour vous aider à prendre le contrôle de vos finances avec facilité et confiance. Que vous suiviez vos dépenses, économisiez pour un objectif ou planifiiez votre retraite, MOBILE! Finance a tout ce dont vous avez besoin pour réussir.</p>
+        <p><a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Ouvre dans une nouvelle fenêtre"><img src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=45&amp;w=149" alt="Télécharger MOBILE! Finance depuis l'App Store" style="height: 45px; width: 149px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Ouvre dans une nouvelle fenêtre"><img src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=45&amp;w=151" alt="Google Play" style="height: 45px; width: 151px;" /></a></p>
+        <p><strong><br />
+        Fonctionnalités principales</strong></p>
+        <ul>
+            <li><strong><em>Budget personnalisé</em></strong> : Créez des budgets personnalisés adaptés à votre situation financière unique et suivez vos dépenses en temps réel.</li>
+            <li><strong><em>Épargne basée sur les objectifs</em></strong> : Fixez des objectifs d'épargne pour toutes vos aspirations financières, d'un voyage de rêve à un acompte sur une maison, et suivez vos progrès sans effort.</li>
+            <li><strong><em>Investissement intelligent</em></strong> : Accédez à une gamme d'options et d'outils d'investissement pour vous aider à accroître votre patrimoine et atteindre vos objectifs financiers à long terme.</li>
+            <li><strong><em>Gestion des factures</em></strong> : Ne manquez plus jamais un paiement de facture avec des rappels automatiques et des fonctionnalités de planification des paiements.</li>
+            <li><strong><em>Sécurité et confidentialité</em></strong> : Soyez assuré que vos informations financières sensibles sont protégées par des mesures de sécurité et des protocoles de cryptage de pointe.</li>
+        </ul>
+        <p><strong>Pourquoi choisir MOBILE! Finance?</strong></p>
+        <p>En tant que partie intégrante de la plateforme de banque en ligne de confiance, MOBILE! Finance offre une intégration transparente avec vos comptes bancaires existants, vous offrant une vue d'ensemble de vos finances en un seul endroit pratique. De plus, avec notre interface conviviale et notre design intuitif, gérer votre argent n'a jamais été aussi facile et agréable.</p>
+        <p><strong>Commencez dès aujourd'hui</strong></p>
+        <p>Prêt à prendre le contrôle de vos finances et à débloquer votre potentiel financier? Téléchargez dès maintenant l'application MOBILE! Finance et rejoignez des milliers d'utilisateurs satisfaits qui profitent déjà des avantages de la banque moderne avec PLAY! Finance.</p>
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: "Nous sommes ravis de vous présenter MOBILE! Finance, une nouvelle application financière révolutionnaire conçue pour transformer votre façon de gérer vos finances et vos opérations bancaires."
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "On vous présente MOBILE! Finance"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8b12913-9418-46bc-82bc-36e813da0373"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: "On vous présente MOBILE! Finance : Votre nouvelle application de compagnon financier"

@@ -1,0 +1,20 @@
+﻿---
+ID: "55997839-21e8-403d-a7f5-57c8aa76aebc"
+Parent: "3ab43b16-c601-4e68-891a-9fd2f113d7ba"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/BNSF/BNSF/Home/News/BNSF recognizes four states with inaugural award for grade crossing safety/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd59553e-7434-4486-afce-70591ad0f310"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"

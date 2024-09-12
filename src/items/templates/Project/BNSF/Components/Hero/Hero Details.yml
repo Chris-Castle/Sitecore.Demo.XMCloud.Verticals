@@ -1,0 +1,13 @@
+﻿---
+ID: "4e048a45-2772-4144-bb31-1147f7664928"
+Parent: "e1d0caff-4e6c-4fcd-b8ed-d9865532720a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/BNSF/Components/Hero/Hero Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e7d6d80-10b0-4f71-984b-d35c08351a1f"

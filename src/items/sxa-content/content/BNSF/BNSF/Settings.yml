@@ -3,7 +3,6 @@ ID: "53617ff0-b270-40c5-b3e6-8a6b5cd0025c"
 Parent: "a343b717-ce2b-49fa-a5b8-5f6030340ddd"
 Template: "f2a2f949-b2f4-45b3-827a-e1b6d5a51580"
 Path: /sitecore/content/BNSF/BNSF/Settings
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
@@ -63,4 +62,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4dfa7b69-dafc-4f36-b5e8-4bfa9b84ac99"
+      Value: "568f623e-71e5-4378-9ff4-67ffd9fe6887"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: "{E1D0CAFF-4E6C-4FCD-B8ED-D9865532720A}"

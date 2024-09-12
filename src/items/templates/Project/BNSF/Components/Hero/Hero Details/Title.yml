@@ -1,0 +1,20 @@
+﻿---
+ID: "ac0d1b60-20b4-4426-acbd-c51e2cb90b82"
+Parent: "4e048a45-2772-4144-bb31-1147f7664928"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/BNSF/Components/Hero/Hero Details/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f48d961-8084-4196-b5ed-b5c5498c6276"

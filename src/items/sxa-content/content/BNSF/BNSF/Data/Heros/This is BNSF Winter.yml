@@ -1,0 +1,26 @@
+﻿---
+ID: "871e20e6-df79-4f70-8db9-6eb7d5dd9211"
+Parent: "58ccc562-769f-4573-8520-545f0a3679b1"
+Template: "e1d0caff-4e6c-4fcd-b8ed-d9865532720a"
+Path: /sitecore/content/BNSF/BNSF/Data/Heros/This is BNSF Winter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "38850f2e-8e35-4c39-b1b2-b0c7cac5a5d0"
+      Hint: Image
+      Value: |
+        <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/b7789742e9be46599212c73be631a04b?v=d2e84f59" dam-id="u0KnCOFSSSOgS1CqJYSPDQ" width="675" height="450" alt="rt-winter_photo_contest-second-don_pogue-story.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38313/thumbnail" />
+    - ID: "3b02178c-0713-4d70-bec7-d7ff0a1fb346"
+      Hint: Description
+      Value: <p>Our Virtual Train Tour has information about our trains, how we operate them, and a variety of railcars we haul.</p>
+    - ID: "6ff28785-0b56-4d85-b8c4-46b0e9053706"
+      Hint: Button Text
+      Value: TAKE THE TOUR
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bde768ff-413f-4130-b04a-ef91734a18b3"
+    - ID: "ac0d1b60-20b4-4426-acbd-c51e2cb90b82"
+      Hint: Title
+      Value: THIS IS BNSF

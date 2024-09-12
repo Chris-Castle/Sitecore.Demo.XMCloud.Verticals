@@ -12,28 +12,6 @@
               "name": "regular",
               "style": "normal",
               "weight": 400,
-              "familyName": "Poppins"
-            }
-          ],
-          "familyName": "Poppins"
-        },
-        "details": {
-          "id": "AGVpu779Q1",
-          "slug": "poppins",
-          "title": "Poppins",
-          "description": "",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "font",
-        "props": {
-          "platform": "google",
-          "variants": [
-            {
-              "name": "regular",
-              "style": "normal",
-              "weight": 400,
               "familyName": "Arimo"
             }
           ],
@@ -255,6 +233,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "RRbPrllH1F"
+            },
+            {
+              "id": "b3Laua7daD",
+              "refId": "dzC-ghIIyn",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8Kl_N_DWOk",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
             }
           ],
           "blocks": [
@@ -309,16 +297,6 @@
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
               "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "gzFLREewMy",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
             }
           ]
         },
@@ -355,23 +333,6 @@
           "id": "q5DDObpo76",
           "slug": "accents--primary",
           "title": "Primary",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 164,
-          "blue": 176,
-          "alpha": 1,
-          "green": 164
-        },
-        "details": {
-          "id": "rCgAA7bXsd",
-          "slug": "accents--secondary",
-          "title": "Secondary",
           "description": "",
           "collectionId": "CpuWPLwIHV",
           "exampleContent": null
@@ -1120,7 +1081,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -1252,7 +1213,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "textTransform": "uppercase",
@@ -1709,7 +1670,7 @@
           "opacity": 1,
           "backgroundSize": "cover",
           "backgroundColor": {
-            "id": "rCgAA7bXsd",
+            "id": "blank-color",
             "alpha": 1
           },
           "backgroundImage": "",
@@ -2288,7 +2249,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "rCgAA7bXsd",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -2540,37 +2501,6 @@
         }
       },
       {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "tHSc2yLcn7"
-          ],
-          "spacingIds": [
-            "n9dYS5_hTQ"
-          ],
-          "decorationIds": [
-            "blank-decoration"
-          ],
-          "typographyIds": [
-            "BE4HzzbSR1"
-          ]
-        },
-        "details": {
-          "id": "e6gXWukhoM",
-          "slug": "button--primary-light",
-          "title": "Primary light",
-          "description": "",
-          "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "palette",
         "props": {
           "textColor": {
@@ -2616,37 +2546,6 @@
           "title": "Secondary light",
           "description": "",
           "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "dQlUxm_s4I"
-          ],
-          "spacingIds": [
-            "Ee64M7-v7r"
-          ],
-          "decorationIds": [
-            "xoNn3Y9FE9"
-          ],
-          "typographyIds": [
-            "WwI29oLNHY"
-          ]
-        },
-        "details": {
-          "id": "WKjnLD6N6s",
-          "slug": "badge--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "badge",
           "exampleContent": null
         }
       },
@@ -2783,37 +2682,6 @@
         "type": "block",
         "props": {
           "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "gridIds": [],
-          "layoutIds": [
-            "blank-layout"
-          ],
-          "paletteIds": [
-            "blank-palette"
-          ],
-          "spacingIds": [
-            "fFvdpvmDVY",
-            "xjL64DD0xr",
-            "vyEuGvVG_h"
-          ],
-          "decorationIds": [
-            "aP-NtLgXV5"
-          ]
-        },
-        "details": {
-          "id": "C87ZI0mjKf",
-          "slug": "card--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "card",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "block",
-        "props": {
-          "fillIds": [
             "ouihEJ_Hz6"
           ],
           "gridIds": [],
@@ -2928,16 +2796,6 @@
               "typographyId": null
             },
             {
-              "id": "Ju-lMlFGMN",
-              "refId": "C87ZI0mjKf",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "GCOwupBcy2",
               "refId": "_0Ddt2Bplu",
               "fillId": "blank-fill",
@@ -2958,16 +2816,6 @@
               "spacingId": "blank-spacing",
               "decorationId": "blank-decoration",
               "typographyId": "blank-typography"
-            },
-            {
-              "id": "wz0VbM10KD",
-              "refId": "e6gXWukhoM",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": false,
-              "paletteId": "tHSc2yLcn7",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
             },
             {
               "id": "eW1t9URR4P",
@@ -3467,7 +3315,7 @@
               {
                 "end": null,
                 "color": {
-                  "id": "rCgAA7bXsd",
+                  "id": "blank-color",
                   "alpha": 1
                 },
                 "start": null
@@ -3518,7 +3366,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -3530,23 +3378,6 @@
           "description": "Badge",
           "collectionId": "default-typography",
           "exampleContent": "Example"
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 248,
-          "blue": 19,
-          "alpha": 1,
-          "green": 93
-        },
-        "details": {
-          "id": "O9tfsmWCBh",
-          "slug": "accents--accent",
-          "title": "Accent",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
         }
       },
       {
@@ -3570,7 +3401,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "blank-color",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -3607,7 +3438,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -3688,149 +3519,55 @@
         }
       },
       {
-        "type": "theme",
+        "type": "color",
         "props": {
-          "texts": [
-            {
-              "id": "yIy-ZfXZd6",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "UZSVM_TDVP",
-              "refId": "GzadtTAYI7",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "U_6AagcxNc",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "54BFrXTQSd",
-              "refId": "geSla7Xlzs",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "MfgnRw9WIq",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "suz7z12-Q4",
-              "refId": "WLv6gokq9-",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "OMB2_usqI1",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "R3s9nmKvGd",
-              "refId": "1C6SbjHopY",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "6su5aiIuuX",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "avo_3yYUns",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": false,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "u0PYxPoUm3",
-              "refId": "x0lhYczcT2",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "rINbk19GOs",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
-            }
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "YwF5sSgacK",
+          "slug": "accents--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "8Kl_N_DWOk"
           ],
-          "blocks": [
-            {
-              "id": "D5QwWJQJvC",
-              "refId": "_c2dFq43b5",
-              "fillId": "qPdWDKOgzq",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "1Pbz5auvuy",
-              "decorationId": "blank-decoration",
-              "typographyId": null
-            },
-            {
-              "id": "c4a5PnQW82",
-              "refId": "cjmWGno2iw",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "vyEuGvVG_h",
-              "decorationId": "VovX5THpgY",
-              "typographyId": null
-            },
-            {
-              "id": "JSrHG0OAda",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            }
-          ],
-          "inlines": [
-            {
-              "id": "wPafT_ffQb",
-              "refId": "dqLRKe5Qlc",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "q5cZLhYzIt",
-              "spacingId": "blank-spacing",
-              "decorationId": "blank-decoration",
-              "typographyId": "blank-typography"
-            },
-            {
-              "id": "JzHVgU4DjA",
-              "refId": "usMxSP4j7j",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "LT-y4cQuhL",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "VovX5THpgY",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "EStXfcdASl",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
-            }
+          "typographyIds": [
+            "45wK6q9Uvb"
           ]
         },
         "details": {
-          "id": "oY-ZO51ZIp",
-          "slug": "bnsf",
-          "title": "bnsf",
+          "id": "dzC-ghIIyn",
+          "slug": "heading2--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "heading2",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "YwF5sSgacK",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "8Kl_N_DWOk",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "dzC-ghIIyn",
           "description": "",
           "exampleContent": null
         }
@@ -3838,36 +3575,14 @@
     ],
     "formatVersion": 30,
     "status": "saved",
-    "revision": 20,
+    "revision": 36,
     "createdAt": "2024-09-12T01:17:28.402Z",
-    "modifiedAt": "2024-09-12T04:03:49.728Z"
+    "modifiedAt": "2024-09-12T05:15:16.63Z"
   },
   {
     "libraryId": "generated",
     "id": "default_screen",
     "source": [
-      {
-        "type": "font",
-        "props": {
-          "platform": "google",
-          "variants": [
-            {
-              "name": "regular",
-              "style": "normal",
-              "weight": 400,
-              "familyName": "Poppins"
-            }
-          ],
-          "familyName": "Poppins"
-        },
-        "details": {
-          "id": "AGVpu779Q1",
-          "slug": "poppins",
-          "title": "Poppins",
-          "description": "",
-          "exampleContent": null
-        }
-      },
       {
         "type": "font",
         "props": {
@@ -4098,6 +3813,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "RRbPrllH1F"
+            },
+            {
+              "id": "b3Laua7daD",
+              "refId": "dzC-ghIIyn",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8Kl_N_DWOk",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
             }
           ],
           "blocks": [
@@ -4152,16 +3877,6 @@
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
               "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "gzFLREewMy",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
             }
           ]
         },
@@ -4198,23 +3913,6 @@
           "id": "q5DDObpo76",
           "slug": "accents--primary",
           "title": "Primary",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 164,
-          "blue": 176,
-          "alpha": 1,
-          "green": 164
-        },
-        "details": {
-          "id": "rCgAA7bXsd",
-          "slug": "accents--secondary",
-          "title": "Secondary",
           "description": "",
           "collectionId": "CpuWPLwIHV",
           "exampleContent": null
@@ -4963,7 +4661,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -5095,7 +4793,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "textTransform": "uppercase",
@@ -5552,7 +5250,7 @@
           "opacity": 1,
           "backgroundSize": "cover",
           "backgroundColor": {
-            "id": "rCgAA7bXsd",
+            "id": "blank-color",
             "alpha": 1
           },
           "backgroundImage": "",
@@ -6131,7 +5829,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "rCgAA7bXsd",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -6383,37 +6081,6 @@
         }
       },
       {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "tHSc2yLcn7"
-          ],
-          "spacingIds": [
-            "n9dYS5_hTQ"
-          ],
-          "decorationIds": [
-            "blank-decoration"
-          ],
-          "typographyIds": [
-            "BE4HzzbSR1"
-          ]
-        },
-        "details": {
-          "id": "e6gXWukhoM",
-          "slug": "button--primary-light",
-          "title": "Primary light",
-          "description": "",
-          "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "palette",
         "props": {
           "textColor": {
@@ -6459,37 +6126,6 @@
           "title": "Secondary light",
           "description": "",
           "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "dQlUxm_s4I"
-          ],
-          "spacingIds": [
-            "Ee64M7-v7r"
-          ],
-          "decorationIds": [
-            "xoNn3Y9FE9"
-          ],
-          "typographyIds": [
-            "WwI29oLNHY"
-          ]
-        },
-        "details": {
-          "id": "WKjnLD6N6s",
-          "slug": "badge--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "badge",
           "exampleContent": null
         }
       },
@@ -6626,37 +6262,6 @@
         "type": "block",
         "props": {
           "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "gridIds": [],
-          "layoutIds": [
-            "blank-layout"
-          ],
-          "paletteIds": [
-            "blank-palette"
-          ],
-          "spacingIds": [
-            "fFvdpvmDVY",
-            "xjL64DD0xr",
-            "vyEuGvVG_h"
-          ],
-          "decorationIds": [
-            "aP-NtLgXV5"
-          ]
-        },
-        "details": {
-          "id": "C87ZI0mjKf",
-          "slug": "card--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "card",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "block",
-        "props": {
-          "fillIds": [
             "ouihEJ_Hz6"
           ],
           "gridIds": [],
@@ -6771,16 +6376,6 @@
               "typographyId": null
             },
             {
-              "id": "Ju-lMlFGMN",
-              "refId": "C87ZI0mjKf",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "GCOwupBcy2",
               "refId": "_0Ddt2Bplu",
               "fillId": "blank-fill",
@@ -6801,16 +6396,6 @@
               "spacingId": "blank-spacing",
               "decorationId": "blank-decoration",
               "typographyId": "blank-typography"
-            },
-            {
-              "id": "wz0VbM10KD",
-              "refId": "e6gXWukhoM",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": false,
-              "paletteId": "tHSc2yLcn7",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
             },
             {
               "id": "eW1t9URR4P",
@@ -7310,7 +6895,7 @@
               {
                 "end": null,
                 "color": {
-                  "id": "rCgAA7bXsd",
+                  "id": "blank-color",
                   "alpha": 1
                 },
                 "start": null
@@ -7361,7 +6946,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -7373,23 +6958,6 @@
           "description": "Badge",
           "collectionId": "default-typography",
           "exampleContent": "Example"
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 248,
-          "blue": 19,
-          "alpha": 1,
-          "green": 93
-        },
-        "details": {
-          "id": "O9tfsmWCBh",
-          "slug": "accents--accent",
-          "title": "Accent",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
         }
       },
       {
@@ -7413,7 +6981,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "blank-color",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -7450,7 +7018,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -7531,149 +7099,55 @@
         }
       },
       {
-        "type": "theme",
+        "type": "color",
         "props": {
-          "texts": [
-            {
-              "id": "yIy-ZfXZd6",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "UZSVM_TDVP",
-              "refId": "GzadtTAYI7",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "U_6AagcxNc",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "54BFrXTQSd",
-              "refId": "geSla7Xlzs",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "MfgnRw9WIq",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "suz7z12-Q4",
-              "refId": "WLv6gokq9-",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "OMB2_usqI1",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "R3s9nmKvGd",
-              "refId": "1C6SbjHopY",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "6su5aiIuuX",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "avo_3yYUns",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": false,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "u0PYxPoUm3",
-              "refId": "x0lhYczcT2",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "rINbk19GOs",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
-            }
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "YwF5sSgacK",
+          "slug": "accents--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "8Kl_N_DWOk"
           ],
-          "blocks": [
-            {
-              "id": "D5QwWJQJvC",
-              "refId": "_c2dFq43b5",
-              "fillId": "qPdWDKOgzq",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "1Pbz5auvuy",
-              "decorationId": "blank-decoration",
-              "typographyId": null
-            },
-            {
-              "id": "c4a5PnQW82",
-              "refId": "cjmWGno2iw",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "vyEuGvVG_h",
-              "decorationId": "VovX5THpgY",
-              "typographyId": null
-            },
-            {
-              "id": "JSrHG0OAda",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            }
-          ],
-          "inlines": [
-            {
-              "id": "wPafT_ffQb",
-              "refId": "dqLRKe5Qlc",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "q5cZLhYzIt",
-              "spacingId": "blank-spacing",
-              "decorationId": "blank-decoration",
-              "typographyId": "blank-typography"
-            },
-            {
-              "id": "JzHVgU4DjA",
-              "refId": "usMxSP4j7j",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "LT-y4cQuhL",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "VovX5THpgY",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "EStXfcdASl",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
-            }
+          "typographyIds": [
+            "45wK6q9Uvb"
           ]
         },
         "details": {
-          "id": "oY-ZO51ZIp",
-          "slug": "bnsf",
-          "title": "bnsf",
+          "id": "dzC-ghIIyn",
+          "slug": "heading2--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "heading2",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "YwF5sSgacK",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "8Kl_N_DWOk",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "dzC-ghIIyn",
           "description": "",
           "exampleContent": null
         }
@@ -7681,36 +7155,14 @@
     ],
     "formatVersion": 30,
     "status": "staged",
-    "revision": 20,
+    "revision": 36,
     "createdAt": "2024-09-12T01:17:28.402Z",
-    "modifiedAt": "2024-09-12T04:03:49.728Z"
+    "modifiedAt": "2024-09-12T05:15:16.63Z"
   },
   {
     "libraryId": "generated",
     "id": "default_screen",
     "source": [
-      {
-        "type": "font",
-        "props": {
-          "platform": "google",
-          "variants": [
-            {
-              "name": "regular",
-              "style": "normal",
-              "weight": 400,
-              "familyName": "Poppins"
-            }
-          ],
-          "familyName": "Poppins"
-        },
-        "details": {
-          "id": "AGVpu779Q1",
-          "slug": "poppins",
-          "title": "Poppins",
-          "description": "",
-          "exampleContent": null
-        }
-      },
       {
         "type": "font",
         "props": {
@@ -7941,6 +7393,16 @@
               "spacingId": null,
               "decorationId": null,
               "typographyId": "RRbPrllH1F"
+            },
+            {
+              "id": "b3Laua7daD",
+              "refId": "dzC-ghIIyn",
+              "fillId": null,
+              "isDefault": false,
+              "paletteId": "8Kl_N_DWOk",
+              "spacingId": null,
+              "decorationId": null,
+              "typographyId": "45wK6q9Uvb"
             }
           ],
           "blocks": [
@@ -7995,16 +7457,6 @@
               "spacingId": "n9dYS5_hTQ",
               "decorationId": "VovX5THpgY",
               "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "gzFLREewMy",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
             }
           ]
         },
@@ -8041,23 +7493,6 @@
           "id": "q5DDObpo76",
           "slug": "accents--primary",
           "title": "Primary",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 164,
-          "blue": 176,
-          "alpha": 1,
-          "green": 164
-        },
-        "details": {
-          "id": "rCgAA7bXsd",
-          "slug": "accents--secondary",
-          "title": "Secondary",
           "description": "",
           "collectionId": "CpuWPLwIHV",
           "exampleContent": null
@@ -8806,7 +8241,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -8938,7 +8373,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "textTransform": "uppercase",
@@ -9395,7 +8830,7 @@
           "opacity": 1,
           "backgroundSize": "cover",
           "backgroundColor": {
-            "id": "rCgAA7bXsd",
+            "id": "blank-color",
             "alpha": 1
           },
           "backgroundImage": "",
@@ -9974,7 +9409,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "rCgAA7bXsd",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -10226,37 +9661,6 @@
         }
       },
       {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "tHSc2yLcn7"
-          ],
-          "spacingIds": [
-            "n9dYS5_hTQ"
-          ],
-          "decorationIds": [
-            "blank-decoration"
-          ],
-          "typographyIds": [
-            "BE4HzzbSR1"
-          ]
-        },
-        "details": {
-          "id": "e6gXWukhoM",
-          "slug": "button--primary-light",
-          "title": "Primary light",
-          "description": "",
-          "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
         "type": "palette",
         "props": {
           "textColor": {
@@ -10302,37 +9706,6 @@
           "title": "Secondary light",
           "description": "",
           "collectionId": "button",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "inline",
-        "props": {
-          "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "graphicIds": [
-            "blank-graphic"
-          ],
-          "paletteIds": [
-            "dQlUxm_s4I"
-          ],
-          "spacingIds": [
-            "Ee64M7-v7r"
-          ],
-          "decorationIds": [
-            "xoNn3Y9FE9"
-          ],
-          "typographyIds": [
-            "WwI29oLNHY"
-          ]
-        },
-        "details": {
-          "id": "WKjnLD6N6s",
-          "slug": "badge--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "badge",
           "exampleContent": null
         }
       },
@@ -10469,37 +9842,6 @@
         "type": "block",
         "props": {
           "fillIds": [
-            "kxUlIZtBjS"
-          ],
-          "gridIds": [],
-          "layoutIds": [
-            "blank-layout"
-          ],
-          "paletteIds": [
-            "blank-palette"
-          ],
-          "spacingIds": [
-            "fFvdpvmDVY",
-            "xjL64DD0xr",
-            "vyEuGvVG_h"
-          ],
-          "decorationIds": [
-            "aP-NtLgXV5"
-          ]
-        },
-        "details": {
-          "id": "C87ZI0mjKf",
-          "slug": "card--dark",
-          "title": "Dark",
-          "description": "",
-          "collectionId": "card",
-          "exampleContent": null
-        }
-      },
-      {
-        "type": "block",
-        "props": {
-          "fillIds": [
             "ouihEJ_Hz6"
           ],
           "gridIds": [],
@@ -10614,16 +9956,6 @@
               "typographyId": null
             },
             {
-              "id": "Ju-lMlFGMN",
-              "refId": "C87ZI0mjKf",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            },
-            {
               "id": "GCOwupBcy2",
               "refId": "_0Ddt2Bplu",
               "fillId": "blank-fill",
@@ -10644,16 +9976,6 @@
               "spacingId": "blank-spacing",
               "decorationId": "blank-decoration",
               "typographyId": "blank-typography"
-            },
-            {
-              "id": "wz0VbM10KD",
-              "refId": "e6gXWukhoM",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": false,
-              "paletteId": "tHSc2yLcn7",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "blank-decoration",
-              "typographyId": "BE4HzzbSR1"
             },
             {
               "id": "eW1t9URR4P",
@@ -11153,7 +10475,7 @@
               {
                 "end": null,
                 "color": {
-                  "id": "rCgAA7bXsd",
+                  "id": "blank-color",
                   "alpha": 1
                 },
                 "start": null
@@ -11204,7 +10526,7 @@
           },
           "overrides": {},
           "fontVariant": {
-            "id": "AGVpu779Q1",
+            "id": "X3oLcjU5g4",
             "name": "regular"
           },
           "allowBoldAndItalic": false
@@ -11216,23 +10538,6 @@
           "description": "Badge",
           "collectionId": "default-typography",
           "exampleContent": "Example"
-        }
-      },
-      {
-        "type": "color",
-        "props": {
-          "red": 248,
-          "blue": 19,
-          "alpha": 1,
-          "green": 93
-        },
-        "details": {
-          "id": "O9tfsmWCBh",
-          "slug": "accents--accent",
-          "title": "Accent",
-          "description": "",
-          "collectionId": "CpuWPLwIHV",
-          "exampleContent": null
         }
       },
       {
@@ -11256,7 +10561,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "blank-color",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -11293,7 +10598,7 @@
         "type": "palette",
         "props": {
           "textColor": {
-            "id": "O9tfsmWCBh",
+            "id": "YwF5sSgacK",
             "alpha": 1
           },
           "linkDecoration": "underline"
@@ -11374,149 +10679,55 @@
         }
       },
       {
-        "type": "theme",
+        "type": "color",
         "props": {
-          "texts": [
-            {
-              "id": "yIy-ZfXZd6",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "4rUkNTEQyh"
-            },
-            {
-              "id": "UZSVM_TDVP",
-              "refId": "GzadtTAYI7",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "U_6AagcxNc",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "54BFrXTQSd",
-              "refId": "geSla7Xlzs",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "MfgnRw9WIq",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "45wK6q9Uvb"
-            },
-            {
-              "id": "suz7z12-Q4",
-              "refId": "WLv6gokq9-",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "OMB2_usqI1",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "R3s9nmKvGd",
-              "refId": "1C6SbjHopY",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "6su5aiIuuX",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "xPQTMRK-v_"
-            },
-            {
-              "id": "avo_3yYUns",
-              "refId": "Bapp_B91w4",
-              "fillId": null,
-              "isDefault": false,
-              "paletteId": "E85e0KXcyt",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "u0PYxPoUm3",
-              "refId": "x0lhYczcT2",
-              "fillId": null,
-              "isDefault": true,
-              "paletteId": "rINbk19GOs",
-              "spacingId": null,
-              "decorationId": null,
-              "typographyId": "RRbPrllH1F"
-            }
+          "red": 248,
+          "blue": 19,
+          "alpha": 1,
+          "green": 93
+        },
+        "details": {
+          "id": "YwF5sSgacK",
+          "slug": "accents--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "CpuWPLwIHV",
+          "exampleContent": null
+        }
+      },
+      {
+        "type": "text",
+        "props": {
+          "paletteIds": [
+            "8Kl_N_DWOk"
           ],
-          "blocks": [
-            {
-              "id": "D5QwWJQJvC",
-              "refId": "_c2dFq43b5",
-              "fillId": "qPdWDKOgzq",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "1Pbz5auvuy",
-              "decorationId": "blank-decoration",
-              "typographyId": null
-            },
-            {
-              "id": "c4a5PnQW82",
-              "refId": "cjmWGno2iw",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "vyEuGvVG_h",
-              "decorationId": "VovX5THpgY",
-              "typographyId": null
-            },
-            {
-              "id": "JSrHG0OAda",
-              "refId": "VwoNQPVj2x",
-              "fillId": "ouihEJ_Hz6",
-              "isDefault": true,
-              "paletteId": null,
-              "spacingId": "fFvdpvmDVY",
-              "decorationId": "aP-NtLgXV5",
-              "typographyId": null
-            }
-          ],
-          "inlines": [
-            {
-              "id": "wPafT_ffQb",
-              "refId": "dqLRKe5Qlc",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "q5cZLhYzIt",
-              "spacingId": "blank-spacing",
-              "decorationId": "blank-decoration",
-              "typographyId": "blank-typography"
-            },
-            {
-              "id": "JzHVgU4DjA",
-              "refId": "usMxSP4j7j",
-              "fillId": "blank-fill",
-              "isDefault": true,
-              "paletteId": "LT-y4cQuhL",
-              "spacingId": "n9dYS5_hTQ",
-              "decorationId": "VovX5THpgY",
-              "typographyId": "BE4HzzbSR1"
-            },
-            {
-              "id": "EStXfcdASl",
-              "refId": "WKjnLD6N6s",
-              "fillId": "kxUlIZtBjS",
-              "isDefault": true,
-              "paletteId": "dQlUxm_s4I",
-              "spacingId": "Ee64M7-v7r",
-              "decorationId": "xoNn3Y9FE9",
-              "typographyId": "WwI29oLNHY"
-            }
+          "typographyIds": [
+            "45wK6q9Uvb"
           ]
         },
         "details": {
-          "id": "oY-ZO51ZIp",
-          "slug": "bnsf",
-          "title": "bnsf",
+          "id": "dzC-ghIIyn",
+          "slug": "heading2--secondary",
+          "title": "Secondary",
+          "description": "",
+          "collectionId": "heading2",
+          "exampleContent": "Example"
+        }
+      },
+      {
+        "type": "palette",
+        "props": {
+          "textColor": {
+            "id": "YwF5sSgacK",
+            "alpha": 1
+          },
+          "linkDecoration": "underline"
+        },
+        "details": {
+          "id": "8Kl_N_DWOk",
+          "slug": "custom",
+          "title": "Custom",
+          "elementId": "dzC-ghIIyn",
           "description": "",
           "exampleContent": null
         }
@@ -11524,8 +10735,8 @@
     ],
     "formatVersion": 30,
     "status": "published",
-    "revision": 20,
+    "revision": 36,
     "createdAt": "2024-09-12T01:17:28.402Z",
-    "modifiedAt": "2024-09-12T04:03:49.728Z"
+    "modifiedAt": "2024-09-12T05:15:16.63Z"
   }
 ]

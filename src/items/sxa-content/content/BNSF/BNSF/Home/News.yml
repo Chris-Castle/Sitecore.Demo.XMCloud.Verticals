@@ -10,6 +10,9 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{E15368E1-068D-4614-86E5-41FEE838C4D0}"
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
@@ -19,7 +22,7 @@ SharedFields:
 - ID: "df6dc0ca-f8ee-493a-a920-f2b710f08452"
   Hint: BackgroundImage
   Value: |
-    <image mediaid="{10CB9C1E-EDEB-45AE-9598-EAD7CF3B3204}" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace="" />
+    <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/5ac244511231405c87a6ae7cd088ae60?v=1a2a5c31" dam-id="x0bUqwbmR_GwJJzmNeS21w" width="1262" height="487" alt="bnsf-spring-hero-index.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38172/thumbnail" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -63,6 +66,9 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{74943A80-DF91-4E0A-AB7D-649B880E0F72}"
+              s:ds="ca683942-6c2e-4b22-a9e7-086a57676953" />
+            <r
               uid="{6A37C3CA-A2AD-42A3-8498-E946B373FEC3}">
               <p:d />
             </r>
@@ -76,13 +82,13 @@ Languages:
       Value: "Keep up-to-date with our industry experts"
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: News
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b90d9292-66e9-49f0-bdd2-83714c835195"
+      Value: "a34649fe-7ba8-4655-bca8-703860e1b7a6"
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
