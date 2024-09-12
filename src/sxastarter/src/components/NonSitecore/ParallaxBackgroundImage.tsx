@@ -10,6 +10,10 @@ export const ParallaxBackgroundImage = (props: ParallaxImageProps): JSX.Element 
   const { sitecoreContext } = useSitecoreContext();
   const isPageEditing = sitecoreContext.pageEditing;
 
+  if (!isPageEditing && !props.BackgroundImage) {
+    return <></>;
+  }
+
   return isPageEditing ? (
     <Image field={props.BackgroundImage} className="background-image"></Image>
   ) : (
