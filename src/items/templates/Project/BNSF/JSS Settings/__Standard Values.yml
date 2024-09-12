@@ -1,0 +1,13 @@
+﻿---
+ID: "24be9fa9-3f4a-44d5-b610-5ea6593d9f94"
+Parent: "f2a2f949-b2f4-45b3-827a-e1b6d5a51580"
+Template: "f2a2f949-b2f4-45b3-827a-e1b6d5a51580"
+Path: /sitecore/templates/Project/BNSF/JSS Settings/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc60a386-87db-4fa9-9b7d-1a8b3c3bf654"

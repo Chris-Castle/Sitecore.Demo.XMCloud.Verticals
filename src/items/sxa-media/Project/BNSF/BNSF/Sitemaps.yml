@@ -1,0 +1,13 @@
+﻿---
+ID: "cf62a5ce-e483-446c-bd08-23e8c1cafed7"
+Parent: "451a9e1e-726c-4467-9bb0-429433082830"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/BNSF/BNSF/Sitemaps
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a46ddfa-0978-4c1e-8902-ac9e454ca38d"

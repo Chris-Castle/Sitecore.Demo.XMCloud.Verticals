@@ -1,0 +1,13 @@
+﻿---
+ID: "42c1131b-6e14-4faf-9220-3e8f1c9da518"
+Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/BNSF/BNSF/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80ce7513-5e5c-40a7-ba13-5a14872c27c8"

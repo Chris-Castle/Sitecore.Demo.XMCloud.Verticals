@@ -1,0 +1,20 @@
+﻿---
+ID: "e3c05fc2-c359-4871-90bf-d0713fa05c1a"
+Parent: "02cafe30-1c8c-46e1-b546-2037d5cc9751"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/BNSF/BNSF/Presentation/Partial Designs/Author Content/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e86e3a2-d7dc-4100-99d2-bf6f0be078c2"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15e82c62-340e-406b-979a-57a989e592d5"

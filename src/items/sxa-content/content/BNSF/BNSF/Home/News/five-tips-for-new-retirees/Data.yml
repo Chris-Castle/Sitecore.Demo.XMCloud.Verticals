@@ -1,0 +1,20 @@
+﻿---
+ID: "8853296d-6b8a-46c8-a9bb-d4b09e5e0c14"
+Parent: "a3dd9ad2-db3c-4b4a-9869-a300b64e033f"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/BNSF/BNSF/Home/News/five-tips-for-new-retirees/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e98c3ab-4176-4cb3-bd78-857105dc1a81"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f625de0f-d4d8-4662-bc69-05aa8ad08db3"

@@ -1,0 +1,27 @@
+﻿---
+ID: "00f61f69-279a-4d9f-83ff-7268b6bad945"
+Parent: "a58c4636-946d-4dce-84e1-c7d9df16dfa7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/BNSF/Pages/Author Page/Socials/SocialIcon3
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4eec98e-bbaf-47de-a19d-7936efd98f80"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06d826fb-e78d-41cb-a266-a8c208214c60"

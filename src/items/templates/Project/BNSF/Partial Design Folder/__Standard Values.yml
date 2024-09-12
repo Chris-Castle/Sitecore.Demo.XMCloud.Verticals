@@ -1,0 +1,19 @@
+﻿---
+ID: "1df663d1-daa9-440a-88dc-dd715623bf99"
+Parent: "6cd145f6-d9af-4e1d-8504-87fd61de2ebf"
+Template: "6cd145f6-d9af-4e1d-8504-87fd61de2ebf"
+Path: /sitecore/templates/Project/BNSF/Partial Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6CD145F6-D9AF-4E1D-8504-87FD61DE2EBF}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09d429ab-f1e8-4d6a-8a96-489fa6b27189"

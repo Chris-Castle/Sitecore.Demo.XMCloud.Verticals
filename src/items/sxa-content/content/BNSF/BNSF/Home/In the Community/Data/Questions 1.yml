@@ -1,0 +1,28 @@
+﻿---
+ID: "97b61dde-0e41-4bb8-bff7-bed77af4f1ef"
+Parent: "b2615bd5-fa70-43f7-ac9a-2858d6a3a246"
+Template: "fae81bf9-1117-4f97-9133-00e752f41772"
+Path: /sitecore/content/BNSF/BNSF/Home/In the Community/Data/Questions 1
+BranchID: "bba2c8f4-b940-4820-bf71-1b089bc5f86a"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C018CF92-1701-4C31-B9BB-A6B245852225}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c46077e-7e6f-4dae-bd55-f00a5c04d147"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44b8036f-5afa-480d-9568-b0d466422b8b"

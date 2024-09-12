@@ -1,0 +1,13 @@
+﻿---
+ID: "d498137d-4396-4cfd-af21-de35677d54cb"
+Parent: "b7eee6ce-96bf-44f6-925e-fb990c820461"
+Template: "b7eee6ce-96bf-44f6-925e-fb990c820461"
+Path: /sitecore/templates/Project/BNSF/Headless Tenant/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1c2f094-ba31-47d7-9527-1b6743626145"

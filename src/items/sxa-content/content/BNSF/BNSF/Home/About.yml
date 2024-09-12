@@ -1,0 +1,56 @@
+﻿---
+ID: "dee3d863-6520-4460-a9a7-68adf2d187b9"
+Parent: "38c758fe-e11b-4bf4-9020-d596107b3036"
+Template: "e18bc38b-d1cf-42fc-93ad-9810669ad966"
+Path: /sitecore/content/BNSF/BNSF/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "4a6ef494-539e-4c96-a875-59b8e7a671eb"
+  Hint: BackgroundImage
+  Value: |
+    <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/2982fc35bb834d378e349343e337a6a8?v=3a354267" dam-id="x0bUqwbmR_GwJJzmNeS21w" width="1262" height="842" alt="bnsf-spring-hero-index.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38172/thumbnail" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B3BDF11E-57B7-4516-983D-9C4A68BB1BE1}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bC94F796E-C8D0-4EE3-86FC-6AB18EC8ED3D%7d%7c%7b6B2445F0-221D-49B6-8F47-E694EC334B7D%7d%7c%7b0820ADD0-799C-4927-83FB-72BCBE59649A%7d%7c%7b5071A345-81E9-47AE-920E-6EE81992776A%7d%7c%7b17DC4953-BC17-4B3F-BD2A-C8810E2D0F3D%7d%7c%7bE1F271B8-D877-4C4E-9487-8F4F664E1A8C%7d%7c%7b3A993AA3-EC43-4F57-BF50-157D8066B74D%7d%7c%7b659ACA49-C850-4F5A-95DE-C0BC45E349F0%7d%7c%7bB12B4FB5-5916-4913-AAF7-2C187C2C4464%7d%7c%7bECB005C4-D5EC-45AC-8C01-E54F4E4D2462%7d%7c%7b85101928-2A79-4946-9B93-3CA58521B2EA%7d%7c%7b496248D7-D2D1-47BB-AEE5-AF9493EE1A77%7d%7c%7b4469895B-E1F5-4294-A4DB-F143019993C8%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{9CE8297D-F147-483D-8B3C-EE427B0A9CE1}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b8BD8B7CF-2348-4C1F-A911-31C3298A9BD1%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About BNSF
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "861dcda1-95fc-402c-8ce1-a6459b8691f7"
+    - ID: "df8a4c08-7b5e-49d9-8aaf-5c5d42c7f6b9"
+      Hint: Title
+      Value: About BNSF

@@ -1,0 +1,20 @@
+﻿---
+ID: "7851ebda-8c32-47af-abe0-f9091180488d"
+Parent: "71c41bca-86ce-4f4b-866e-b3d87486584a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/BNSF/BNSF/Home/News/empowering-young-adults/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65b6d438-1fbd-4bd6-b746-2949d2baea47"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "567fa835-994f-440e-9df0-84a1cc9e0da2"

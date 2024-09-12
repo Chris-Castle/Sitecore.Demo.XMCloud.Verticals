@@ -1,0 +1,17 @@
+﻿---
+ID: "adc3cdbb-6c80-4b90-a53b-cf302570a8c6"
+Parent: "74f341c0-55a1-4e9e-a1f4-b33904ae970b"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/BNSF/BNSF/Presentation/Headless Variants/Image/Banner
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e870a121-edf7-46a0-91da-e277fa10646d"

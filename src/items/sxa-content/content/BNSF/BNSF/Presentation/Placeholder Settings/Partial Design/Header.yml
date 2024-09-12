@@ -1,0 +1,17 @@
+﻿---
+ID: "cac834ea-c887-4140-b383-6b4780502e85"
+Parent: "0c086de3-8825-4afb-8eea-782c6e741b8c"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/BNSF/BNSF/Presentation/Placeholder Settings/Partial Design/Header
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e06a3ba-566b-4e1e-9eda-dcba0e860da1"

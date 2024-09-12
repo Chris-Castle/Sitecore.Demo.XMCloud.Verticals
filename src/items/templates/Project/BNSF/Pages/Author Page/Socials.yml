@@ -1,0 +1,24 @@
+﻿---
+ID: "a58c4636-946d-4dce-84e1-c7d9df16dfa7"
+Parent: "38ddc80a-62d2-4fe5-86f8-dd7b7a076b20"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/BNSF/Pages/Author Page/Socials
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbd61de6-4980-4729-ad8d-ac91fb51535e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c26cd273-9587-4fd7-b72b-11ec9a2911fe"

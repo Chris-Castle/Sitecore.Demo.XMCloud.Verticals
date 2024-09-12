@@ -1,0 +1,13 @@
+﻿---
+ID: "0c086de3-8825-4afb-8eea-782c6e741b8c"
+Parent: "0f5ed6b0-9f2a-40bb-857a-89e8e8f9acb7"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/BNSF/BNSF/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9eceb903-3670-4687-9ef7-d1cecd7fb033"

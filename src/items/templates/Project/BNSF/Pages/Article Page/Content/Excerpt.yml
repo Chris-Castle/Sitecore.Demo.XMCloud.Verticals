@@ -1,0 +1,27 @@
+﻿---
+ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
+Parent: "8c48a9e2-d6cd-4d23-9e55-1782223ff3bb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/BNSF/Pages/Article Page/Content/Excerpt
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Multi-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "777306a8-90c4-41bb-9a0c-bdecb06132af"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0e21f7d-e7e4-4571-9af8-8735d1b551fe"

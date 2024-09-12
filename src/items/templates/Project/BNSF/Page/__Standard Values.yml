@@ -1,0 +1,22 @@
+﻿---
+ID: "a744e5ec-9c21-4a5c-b6f0-03cfce602436"
+Parent: "b42207b4-6d5f-45eb-8d98-936ae0e3dc53"
+Template: "b42207b4-6d5f-45eb-8d98-936ae0e3dc53"
+Path: /sitecore/templates/Project/BNSF/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B42207B4-6D5F-45EB-8D98-936AE0E3DC53}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec79e428-ceee-4190-baf5-345f2c858c21"
+    - ID: "aa6be3ce-5d50-4276-944e-d9ee4609ab73"
+      Hint: Title
+      Value: $name

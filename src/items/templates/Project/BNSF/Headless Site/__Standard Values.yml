@@ -1,0 +1,13 @@
+﻿---
+ID: "9026bb80-1d48-493c-98a5-cf63675aa067"
+Parent: "eedf60fe-6a2d-4c9c-afbd-eaec9334d4d3"
+Template: "eedf60fe-6a2d-4c9c-afbd-eaec9334d4d3"
+Path: /sitecore/templates/Project/BNSF/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aad39a0d-6a34-422e-853f-afcb9b175aa7"

@@ -1,0 +1,13 @@
+﻿---
+ID: "834615f2-a091-4347-8c98-2ec0253a5482"
+Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/BNSF/BNSF/Data/Link Lists
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "726f691f-9eea-48ea-a4a7-74bc64b2255a"

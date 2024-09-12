@@ -1,0 +1,13 @@
+﻿---
+ID: "98dc84ce-dbe9-49b9-92ef-449cc1da32f1"
+Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/BNSF/BNSF/Data/Images
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7d1f355-94f9-4c23-a4b5-ace62951340c"

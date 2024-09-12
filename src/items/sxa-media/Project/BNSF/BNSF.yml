@@ -1,0 +1,13 @@
+﻿---
+ID: "451a9e1e-726c-4467-9bb0-429433082830"
+Parent: "ab019e29-b5b7-41d2-9657-27f6134ba875"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/BNSF/BNSF
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "966cc626-acff-4cdb-a727-60f02d1c8919"

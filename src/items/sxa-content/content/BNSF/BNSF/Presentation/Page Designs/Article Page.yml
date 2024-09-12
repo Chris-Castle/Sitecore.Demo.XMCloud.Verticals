@@ -1,0 +1,28 @@
+﻿---
+ID: "048704ca-9f47-47c4-a9f4-d6a2fc5c4e1b"
+Parent: "17d90f7e-e6e2-4db0-981b-d31e25679402"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/BNSF/BNSF/Presentation/Page Designs/Article Page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "85232e62-209c-4a26-85de-c30d2734a9ed|c18a717e-ac60-4cb6-bad8-9c568b61bb2d|7dca358a-c542-4991-a103-a727b40785a0"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9577FF23-7437-4375-9962-C6FE1D39C171}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "564647da-9f3a-48b7-aac2-09e2e705ac5e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f336e2c9-5d97-434b-b89b-d82b29b26785"

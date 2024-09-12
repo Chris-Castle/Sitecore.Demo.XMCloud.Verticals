@@ -1,0 +1,24 @@
+﻿---
+ID: "e004aa15-55ce-4959-a3ce-10d6756bbac3"
+Parent: "00cf69cc-cc1e-4e7d-b458-c206c6dd41b3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/BNSF/BNSF/Home/Ship with BNSF/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da210917-1dd6-4630-b826-48f5a5161e49"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02e8b59a-d4b3-486c-8bf9-9f95eb606ee5"

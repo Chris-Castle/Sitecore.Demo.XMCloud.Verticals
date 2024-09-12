@@ -1,0 +1,20 @@
+﻿---
+ID: "8c48a9e2-d6cd-4d23-9e55-1782223ff3bb"
+Parent: "79474fc9-f494-4c26-85e3-e7fbf69237ab"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/BNSF/Pages/Article Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66d32428-09d5-4215-8e9d-0751b1e2783e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b621bf4c-1a21-4a52-93ac-25718557ee69"

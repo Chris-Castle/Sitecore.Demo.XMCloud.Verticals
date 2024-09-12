@@ -1,0 +1,13 @@
+﻿---
+ID: "efd828d7-0361-4910-892a-2fab123796b7"
+Parent: "a1f6469d-16e1-4a5f-9e49-1aad869a5d11"
+Template: "2f5f8343-2a18-46a4-92a1-0f7ab0452741"
+Path: /sitecore/templates/Branches/Project/BNSF
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58965d98-4985-470a-a4e6-495289d441e1"

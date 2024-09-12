@@ -1,0 +1,13 @@
+﻿---
+ID: "6bea38f6-de1c-4e87-834b-a32d4b113304"
+Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/BNSF/BNSF/Data/Texts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de1ba964-ccc9-4635-a3bf-0907572cfe7c"

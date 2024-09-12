@@ -1,0 +1,13 @@
+﻿---
+ID: "9c564650-02fb-49ed-ab07-5e70c29aa5a3"
+Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/BNSF/BNSF/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90661c10-06bb-4ce8-aa63-54ecd57da3ec"

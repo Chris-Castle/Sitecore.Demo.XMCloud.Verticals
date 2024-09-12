@@ -1,0 +1,24 @@
+﻿---
+ID: "f75a9c1c-8ab8-4b43-b9f6-3211305ece84"
+Parent: "7470ffcc-02c2-4514-99a2-1f6c897facb8"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/BNSF/Pages
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08029047-329a-41f3-a683-87bd7b2d7ccf"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e5ab85f-c6ef-472f-94f5-9a5c1f4506df"
