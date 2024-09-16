@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/c17721fb-8dfe-4ddd-9f1b-bb1c3ea27e64",
   "ref": "c17721fb-8dfe-4ddd-9f1b-bb1c3ea27e64",
   "name": "embedded_{scope}_38c758fee11b4bf49020d596107b3036_en",
-  "modifiedByRef": "auth0|63c71ee3fdfc61dc2bb22c32",
-  "modifiedAt": "2024-09-13T14:45:39.543Z",
-  "revision": 17,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2024-09-16T13:39:00.485Z",
+  "revision": 23,
   "archived": false,
   "friendlyId": "embedded_{scope}_38c758fee11b4bf49020d596107b3036_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-13T14:45:39.568Z",
+    "modifiedAt": "2024-09-16T13:39:00.504Z",
     "splits": [
       {
         "template": "{\"variantId\": \"de4d6fb4d08f4ccd978801f498121334\"}",
@@ -58,7 +58,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "48039126-74c0-48e2-a8ec-4a2930439f24",
+      "ref": "2d4609e0-0357-446c-8c91-4134807cd579",
       "name": "Winter Months",
       "tasks": [
         {

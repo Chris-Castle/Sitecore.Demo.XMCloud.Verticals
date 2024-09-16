@@ -30,44 +30,8 @@ Languages:
               uid="{7EEDFD5C-C7EC-4EE0-BFBA-07B474451478}"
               p:after="r[@uid='{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}']"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:pt="personalizationTest"
               s:par="ComponentName=Promo%202&amp;ComponentConfiguration&amp;LibraryId=46FBf7AqqHNJYWAOI1BEIl&amp;ComponentId=u7jhTpMYP0&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=u8msh1-rkUuhhVK&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo%202&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
-              s:ph="/headless-main/sxa-article-content/page-content-0-1">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{D1ECF32C-37FD-440B-B404-CEE6BD903E24}"
-                    s:name="7eedfd5cc7ec4ee0bfba07b474451478_d050e8f07cea4b9b99e5ec991f0f9d4a">
-                    <conditions>
-                      <condition
-                        uid="D2E0CA97821A4ACCA79622A38539F7F6"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="7eedfd5cc7ec4ee0bfba07b474451478_d050e8f07cea4b9b99e5ec991f0f9d4a" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{0C5E611E-8521-4032-B9FA-AC3A82C77B1D}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="2a61a1eb-ed3b-4516-b0a6-16b1e9cb64cb" />
-                      <action
-                        uid="{254B2AF1-8EDE-4A2E-8855-80197F971ED3}"
-                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
-                        s:RenderingItem="2492bac4-da07-4c86-87f0-9873d40e2276" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="CF33EFA231214DA78C2D9EC3E75716A2"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
+              s:ph="/headless-main/sxa-article-content/page-content-0-1" />
             <r
               uid="{BFFB5284-2B40-44CC-B22D-2B0F9FEFC84C}"
               p:after="*[1=2]"
@@ -91,7 +55,7 @@ Languages:
         <div class="ck-content"><p>As one of the most critical industries in North America, automobile manufacturers face a lot of competition. To stay ahead, companies looking for an edge turn to BNSF.</p><p>By shipping with us you can expect personalized service, on-time deliveries, logistical support and damage-free shipments. In other words, we get it there quickly and securely.</p><p>Whether you're shipping one carload or multiple carloads, we offer you consistent, reliable and cost-effective service. Easily fit three or more truckloads in a single railcar. Contact us to learn more.<br />&nbsp;</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "18c43ea4-956e-48b3-834f-25a54bc7e51d"
+      Value: "e9cbe2f6-eca8-485e-a047-c59d6d77af5f"
     - ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
       Hint: Excerpt
       Value: BNSF offers customers the fastest multilevel performance and lowest claims ratio in the industry, per AAR statistics.

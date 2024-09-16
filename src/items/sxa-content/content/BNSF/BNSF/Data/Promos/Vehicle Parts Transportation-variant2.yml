@@ -1,0 +1,28 @@
+﻿---
+ID: "53d162e9-8405-438c-ab5e-1ab461cd6151"
+Parent: "9c564650-02fb-49ed-ab07-5e70c29aa5a3"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/BNSF/BNSF/Data/Promos/Vehicle Parts Transportation-variant2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <div class="ck-content"><p>Learn why BNSF is the most trusted transporter for cars and trucks.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "019880ca-2bcf-4ba7-af7b-038158ce3cbe"
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{00CF69CC-CC1E-4E7D-B458-C206C6DD41B3}" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/61430431f0e9442c9ba8298c5242e722?v=6b9801e4" dam-id="8A3-Er1QTGSNEUW5AhM8EA" width="675" height="449" alt="rt-automotive-velocity-story-2.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38338/thumbnail" />
