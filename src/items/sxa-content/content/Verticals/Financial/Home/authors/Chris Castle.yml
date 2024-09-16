@@ -2,7 +2,7 @@
 ID: "d6149e88-dd83-4a57-adb8-5cd17a22798c"
 Parent: "8c2d6765-91be-4bd8-a0b3-4f81256e75a6"
 Template: "aad350f5-9331-4d71-a942-e3643653c028"
-Path: /sitecore/content/Verticals/Financial/Home/authors/Mark Wells
+Path: /sitecore/content/Verticals/Financial/Home/authors/Chris Castle
 SharedFields:
 - ID: "2404bb97-b42a-439a-be76-de66213cb281"
   Hint: BackgroundImage
@@ -11,7 +11,7 @@ SharedFields:
 - ID: "6be59cd8-74bd-4c67-b611-e81e140679b4"
   Hint: Photo
   Value: |
-    <image mediaid="{92891787-C925-4353-B115-6E5712F62B2E}" alt="Mark" height="" width="" hspace="" vspace="" />
+    <image mediaid="{BF3F9DDB-E183-4ABD-9B3E-B07EE115A14F}" alt="chris castle" height="" width="" hspace="" vspace="" />
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
@@ -35,7 +35,7 @@ Languages:
       Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Mark Wells
+      Value: Chris Castle
     - ID: "524c9c82-80d5-4d65-b7e3-4dd0e365b762"
       Hint: Position
       Value: Client Services Manager
@@ -45,14 +45,14 @@ Languages:
         <image mediaid="{37E8F17D-5AA1-4AF4-9CB1-45C4F07BDD4C}" alt="facebook" height="" width="" hspace="" vspace="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0677cab-a9c1-45e9-9fec-0eae7edef48f"
+      Value: "9fde4ec4-f2cb-40f4-8c39-9c1cd319cf34"
     - ID: "97b19c3f-9341-48ac-be54-22e1caaa1d48"
       Hint: Bio
       Value: |
         <div class="ck-content"><p>Olly is dedicated to delivering exceptional service and support to our clients. With a focus on building strong client relationships and exceeding expectations, she leads our client services team in providing timely and responsive assistance to address client inquiries, resolve issues, and ensure satisfaction.</p></div>
     - ID: "996749ca-6a47-463d-a759-7db65676f179"
       Hint: Name
-      Value: Mark Wells
+      Value: Chris Castle
     - ID: "e2e9b7ce-f57c-4752-99e5-b0d56e3c8864"
       Hint: SocialIcon2
       Value: |

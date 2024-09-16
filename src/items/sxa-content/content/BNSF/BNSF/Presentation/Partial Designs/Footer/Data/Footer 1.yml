@@ -40,11 +40,11 @@ Languages:
         <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2694d86-6594-44ff-8df7-054c4e30bcc1"
+      Value: "d07b4ac7-c939-42e8-92e2-9dfdeab7796f"
     - ID: "92612ddf-b3fd-4597-a655-de6da2eb553f"
       Hint: Text3
       Value: |
-        <div class="ck-content"><p>Custmer Notifications&nbsp;</p><p>News</p><p>Media</p></div>
+        <div class="ck-content"><p>Customer Notifications&nbsp;</p><p>News</p><p>Media</p></div>
     - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
       Hint: Text2
       Value: |

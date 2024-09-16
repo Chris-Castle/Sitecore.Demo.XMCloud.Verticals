@@ -84,12 +84,44 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{D2097BD9-51EE-4CC5-9888-C73316E66669}"
+              uid="{E380FFCB-9A9A-4C30-9976-5205904C720A}"
               p:before="*"
-              s:ds="c06888d4-4cc9-4870-a9b5-e90c45442f18"
+              s:ds="{C06888D4-4CC9-4870-A9B5-E90C45442F18}"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Home%20Hero%20Banner&amp;ComponentConfiguration&amp;LibraryId=1Xf0mdJTCLOxlS0biTw2V6&amp;ComponentId=3TlCJ-Fp9y&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=5sN3krcspkSMRr0&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Home%20Hero%20Banner&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="headless-main" />
+              s:pt="personalizationTest"
+              s:par="ComponentName=Home%20Hero%20Banner&amp;ComponentConfiguration&amp;LibraryId=46FBf7AqqHNJYWAOI1BEIl&amp;ComponentId=3TlCJ-Fp9y&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=EyOKe_xoK2h4fM7&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Home%20Hero%20Banner&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{26CCF478-4098-4F68-9C83-D6BD7BD1DD78}"
+                    s:name="de4d6fb4d08f4ccd978801f498121334">
+                    <conditions>
+                      <condition
+                        uid="E4EFCC979AE945A1928F1576C3E00B0C"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="de4d6fb4d08f4ccd978801f498121334" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{C0ADAE69-C575-4149-A969-CC5CDD03355A}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="871e20e6-df79-4f70-8db9-6eb7d5dd9211" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="4DC475F0A6B643E886B957EC31AEB999"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{3732A65E-A01B-41C5-B832-3FF20D80C873}">
               <p:d />
@@ -119,4 +151,4 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dfeee769-2f5c-4d53-875a-2e62c312a3af"
+      Value: "bdb39276-fd88-4cbd-b3be-5d795fe0fcdb"

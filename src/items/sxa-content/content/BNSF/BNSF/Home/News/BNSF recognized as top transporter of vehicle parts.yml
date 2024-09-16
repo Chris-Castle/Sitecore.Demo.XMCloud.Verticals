@@ -1,0 +1,97 @@
+﻿---
+ID: "89f97ec7-f415-48fe-96d4-55157da31363"
+Parent: "ca683942-6c2e-4b22-a9e7-086a57676953"
+Template: "79474fc9-f494-4c26-85e3-e7fbf69237ab"
+Path: /sitecore/content/BNSF/BNSF/Home/News/BNSF recognized as top transporter of vehicle parts
+SharedFields:
+- ID: "1a391047-5944-424d-b5bc-5579bd316f9e"
+  Hint: Thumbnail
+  Value: |
+    <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/875ec62fb3e248d29eec8ca5cef0b408?v=8e9e0d2e" dam-id="FrqDZ4qMRRGELcHCbJDDXw" width="738" height="542" alt="consumer-products-vehicle-parts-hero.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38322/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7EEDFD5C-C7EC-4EE0-BFBA-07B474451478}"
+              p:after="r[@uid='{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}']"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:pt="personalizationTest"
+              s:par="ComponentName=Promo%202&amp;ComponentConfiguration&amp;LibraryId=46FBf7AqqHNJYWAOI1BEIl&amp;ComponentId=u7jhTpMYP0&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=u8msh1-rkUuhhVK&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Promo%202&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article-content/page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{D1ECF32C-37FD-440B-B404-CEE6BD903E24}"
+                    s:name="7eedfd5cc7ec4ee0bfba07b474451478_d050e8f07cea4b9b99e5ec991f0f9d4a">
+                    <conditions>
+                      <condition
+                        uid="D2E0CA97821A4ACCA79622A38539F7F6"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="7eedfd5cc7ec4ee0bfba07b474451478_d050e8f07cea4b9b99e5ec991f0f9d4a" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{0C5E611E-8521-4032-B9FA-AC3A82C77B1D}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="2a61a1eb-ed3b-4516-b0a6-16b1e9cb64cb" />
+                      <action
+                        uid="{254B2AF1-8EDE-4A2E-8855-80197F971ED3}"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="2492bac4-da07-4c86-87f0-9873d40e2276" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="CF33EFA231214DA78C2D9EC3E75716A2"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{BFFB5284-2B40-44CC-B22D-2B0F9FEFC84C}"
+              p:after="*[1=2]"
+              s:id="{DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}"
+              s:par="ComponentName=SitecoreForm%3FformId%3Dd7fe70fcc56a4ecdbb01a04a4145f479-use&amp;ComponentProps&amp;ComponentLabel=Learn%20about%20Vehicle%20Parts&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-article-content/background-page-content-0-1" />
+          </d>
+        </r>
+    - ID: "20c9586c-291a-4b16-b334-abc8c27729b5"
+      Hint: Title
+      Value: BNSF recognized as top transporter of vehicle parts
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0C30D3F-4537-4F66-98A4-213D0FA050FE}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: BNSF recognized as top transporter of vehicle parts
+    - ID: "6af5e630-e9ca-4dff-8689-357cf44dcd3d"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>As one of the most critical industries in North America, automobile manufacturers face a lot of competition. To stay ahead, companies looking for an edge turn to BNSF.</p><p>By shipping with us you can expect personalized service, on-time deliveries, logistical support and damage-free shipments. In other words, we get it there quickly and securely.</p><p>Whether you're shipping one carload or multiple carloads, we offer you consistent, reliable and cost-effective service. Easily fit three or more truckloads in a single railcar. Contact us to learn more.<br />&nbsp;</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18c43ea4-956e-48b3-834f-25a54bc7e51d"
+    - ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
+      Hint: Excerpt
+      Value: BNSF offers customers the fastest multilevel performance and lowest claims ratio in the industry, per AAR statistics.

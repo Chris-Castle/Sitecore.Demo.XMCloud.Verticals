@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/e454ec7aeaa3469ca4c1361601012d4a?v=74b8dc30" dam-id="XOP-SeSBRhyy-OzdphLeqg" width="2000" height="1331" alt="bnsf-grade-crossing-dot-award.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38238/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 200
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -87,7 +87,7 @@ Languages:
       Value: BNSF recognizes four states with inaugural award for grade crossing safety
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f9fd312e-9271-4bf7-a150-f736129e0eeb"
+      Value: "33f5b2d4-d141-43df-9ac5-e6747b41c0dc"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF recognizes four states with inaugural award for grade crossing safety

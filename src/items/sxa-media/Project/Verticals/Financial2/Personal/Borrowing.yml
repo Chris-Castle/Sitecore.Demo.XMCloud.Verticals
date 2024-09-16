@@ -1,0 +1,17 @@
+﻿---
+ID: "222c88ba-54d5-4c0d-a4cb-bcfa69005290"
+Parent: "a555d487-ae5c-4110-96e5-36ab2a46c231"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Financial2/Personal/Borrowing
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c74f03ee-2fd7-4f98-bb2a-6f6b90a8a019"

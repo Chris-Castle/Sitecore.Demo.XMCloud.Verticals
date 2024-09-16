@@ -15,6 +15,10 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0A0DEA2E-7B0C-4F1F-AC93-CC52AB670D4A}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
@@ -46,7 +50,7 @@ Languages:
       Value: <p>Enter the body copy here</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d46a8a33-5e02-4050-a635-169a0792c866"
+      Value: "a8976924-486a-4aa0-b438-4b0f4588de5b"
     - ID: "e60edfc5-5a9f-4ec4-a0e9-78c4fc9b7b3b"
       Hint: Excerpt
       Value: Enter the excerpt

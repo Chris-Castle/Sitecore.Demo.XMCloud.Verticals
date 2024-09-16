@@ -132,45 +132,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "wULupvBZuS",
-        "collectionId": "default",
-        "name": "Alternate Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 1,
-        "stagedVersionCount": 1,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "dfed4457d760457abec1c0dccdc44381"
-        ],
-        "createdAt": "2024-09-12T17:33:04.931Z",
-        "stagedAt": "2024-09-12T17:34:30.183Z",
-        "publishedAt": "2024-09-12T17:34:30.183Z",
-        "modifiedAt": "2024-09-12T17:34:30.183Z",
-        "modifiedBy": {
-          "id": "63c71ee3fdfc61dc2bb22c32",
-          "name": "Christopher Castle",
-          "email": "chris.castle@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png",
-          "givenName": "Christopher",
-          "familyName": "Castle"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "wULupvBZuS",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-12T17:33:19.497Z",
-            "modifiedAt": "2024-09-12T17:33:19.497Z"
-          }
-        ]
-      },
-      {
-        "libraryId": "generated",
         "id": "3TlCJ-Fp9y",
         "collectionId": "default",
         "name": "Home Hero Banner",
@@ -183,9 +144,9 @@
           "e1d0caff4e6c4fcdb8edd9865532720a"
         ],
         "createdAt": "2024-09-12T03:49:08.085Z",
-        "stagedAt": "2024-09-12T16:47:33.274Z",
-        "publishedAt": "2024-09-12T16:48:08.656Z",
-        "modifiedAt": "2024-09-12T16:48:08.656Z",
+        "stagedAt": "2024-09-12T23:51:26.434Z",
+        "publishedAt": "2024-09-12T23:51:26.434Z",
+        "modifiedAt": "2024-09-12T23:51:26.434Z",
         "modifiedBy": {
           "id": "63c71ee3fdfc61dc2bb22c32",
           "name": "Christopher Castle",
@@ -194,7 +155,60 @@
           "givenName": "Christopher",
           "familyName": "Castle"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "3TlCJ-Fp9y",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {
+              "small": "aSJVQskMRg",
+              "medium": "aSJVQskMRg",
+              "xsmall": "aSJVQskMRg"
+            },
+            "orderIdx": "",
+            "createdAt": "2024-09-12T23:44:00.671Z",
+            "modifiedAt": "2024-09-12T23:44:00.671Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
+        "id": "u7jhTpMYP0",
+        "collectionId": "default",
+        "name": "Promo 2",
+        "description": "",
+        "status": "published",
+        "versionCount": 1,
+        "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-09-12T20:06:46.79Z",
+        "stagedAt": "2024-09-12T20:42:59.42Z",
+        "publishedAt": "2024-09-12T20:42:59.42Z",
+        "modifiedAt": "2024-09-12T20:42:59.42Z",
+        "modifiedBy": {
+          "id": "63c71ee3fdfc61dc2bb22c32",
+          "name": "Christopher Castle",
+          "email": "chris.castle@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png",
+          "givenName": "Christopher",
+          "familyName": "Castle"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "u7jhTpMYP0",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-09-12T20:06:53.458Z",
+            "modifiedAt": "2024-09-12T20:06:53.458Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -219,23 +233,7 @@
           "givenName": "Christopher",
           "familyName": "Castle"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "p9C5eEa6Rj",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {
-              "small": "aSJVQskMRg",
-              "medium": "aSJVQskMRg",
-              "xsmall": "aSJVQskMRg"
-            },
-            "orderIdx": "",
-            "createdAt": "2024-09-12T05:02:55.214Z",
-            "modifiedAt": "2024-09-12T05:02:55.214Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }

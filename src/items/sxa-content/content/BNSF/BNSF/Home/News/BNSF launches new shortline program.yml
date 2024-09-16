@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/f7bb9a5a08514979b55d9c263f0c371d?v=be3b5785" dam-id="pexEN-vZSMqhzc6Gwv_nnA" width="1200" height="800" alt="bnsf-close-up-train.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38170/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 150
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -67,6 +67,9 @@ Languages:
         </ul>
         <p>Shortline Select shortlines will partner with BNSF on a suite of operational process improvements and have pre-defined economic arrangements with BNSF that enable expedited responsiveness to customer rate requests. BNSF looks forward to welcoming additional shortlines to the program in the future.</p>
         <p>&nbsp;</p>
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{3BC605DE-BBED-4E1E-8A00-AAAF30E48CAA}"
@@ -78,7 +81,7 @@ Languages:
       Value: BNSF launches new shortline program
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "249e5552-e549-4024-8795-357fd21b4d2f"
+      Value: "a6cf101b-c9c8-463f-9a27-eff7341f31e9"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF launches new shortline program

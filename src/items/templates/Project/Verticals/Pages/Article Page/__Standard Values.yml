@@ -15,6 +15,10 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0A0DEA2E-7B0C-4F1F-AC93-CC52AB670D4A}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
@@ -52,7 +56,7 @@ Languages:
       Value: Discover the keys to financial literacy with expert insights on budgeting, saving, investing, and retirement planning. Uncover practical tips and strategies to take control of your finances and build a secure future for you and your family.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "68fb3b2f-9da3-4b79-ae2b-c36b78b98f5d"
+      Value: "d4ae38d0-58d4-4f1c-ba4f-004fb95fbdd1"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: $name

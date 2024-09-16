@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/3ee87614140f43b69f86c32cebac8079?v=967bb7ea" dam-id="9w08tb_tSP-zTSi1nTIZkQ" width="1200" height="630" alt="SJC_0126483.png" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38252/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 800
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -99,7 +99,7 @@ Languages:
       Value: BNSF completes new mainline improvement project in Becker/Belen NM
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c0ccd9ba-2011-491e-b3ec-937542a63bff"
+      Value: "65c157ab-569a-4621-bfe4-677cd740a89a"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF completes new mainline improvement project in Becker/Belen NM

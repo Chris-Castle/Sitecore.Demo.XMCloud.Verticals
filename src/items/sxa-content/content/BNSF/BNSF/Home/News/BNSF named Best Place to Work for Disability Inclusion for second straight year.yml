@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/16fc6db460754b04b776d5b33ca5ae53?v=c44cfc75" dam-id="vFetLq7dRcayywSuVdCp3g" width="1200" height="800" alt="bnsf-container-train-spring-wildflowers-tx.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38236/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 700
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -88,7 +88,7 @@ Languages:
       Value: BNSF named Best Place to Work for Disability Inclusion for second straight year
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1a00068c-1049-4090-87f0-44f4d609b1cd"
+      Value: "2e5f2127-c441-4901-bbd7-f6aeaa7cfa69"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF named Best Place to Work for Disability Inclusion for second straight year

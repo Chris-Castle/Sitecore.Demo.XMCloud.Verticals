@@ -1,0 +1,13 @@
+﻿---
+ID: "4bea34fa-1484-4986-b229-5f909efd942b"
+Parent: "89f97ec7-f415-48fe-96d4-55157da31363"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/BNSF/BNSF/Home/News/BNSF recognized as top transporter of vehicle parts/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d90d8e5-87bd-47ae-9a11-e7445abd9382"

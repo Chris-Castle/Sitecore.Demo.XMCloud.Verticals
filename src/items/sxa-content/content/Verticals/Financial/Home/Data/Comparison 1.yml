@@ -1,0 +1,13 @@
+﻿---
+ID: "9fb47560-6f47-4908-9454-1accd2ba1973"
+Parent: "5109a19b-e647-4ef6-9b82-c6d8645fed58"
+Template: "32f00428-21ac-4dc0-aa2b-f2e31ca3e97e"
+Path: /sitecore/content/Verticals/Financial/Home/Data/Comparison 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1df61e59-9060-4862-8efb-bebd1c6db1a2"

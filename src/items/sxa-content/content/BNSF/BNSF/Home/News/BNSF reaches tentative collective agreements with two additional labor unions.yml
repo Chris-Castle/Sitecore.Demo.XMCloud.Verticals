@@ -20,7 +20,7 @@ SharedFields:
     <image mediaid="066b7ce9-0a71-4acd-ad0d-8707d3d4944d" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 300
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -99,7 +99,7 @@ Languages:
       Value: BNSF reaches tentative collective agreements with two additional labor unions
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "20272bad-6313-4a2b-a13f-825045081b35"
+      Value: "905bf2c7-9429-4f92-9bf6-5725dbbd623f"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF reaches tentative collective agreements with two additional labor unions

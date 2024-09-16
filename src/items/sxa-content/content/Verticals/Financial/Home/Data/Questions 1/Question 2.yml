@@ -1,0 +1,18 @@
+﻿---
+ID: "0bfb3962-09a9-4670-89f1-01ce4a4218fd"
+Parent: "b071189d-9123-44cd-a39c-d61d85ecac9e"
+Template: "2dc7a13e-6753-47ef-805a-1cde39012eec"
+Path: /sitecore/content/Verticals/Financial/Home/Data/Questions 1/Question 2
+BranchID: "bba2c8f4-b940-4820-bf71-1b089bc5f86a"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1B3E2AF0-8A50-401D-B32C-5F3C293EFBCE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f3f66cc-e11b-4fc5-b070-3b61739b9a10"

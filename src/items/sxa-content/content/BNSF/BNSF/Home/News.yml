@@ -12,7 +12,7 @@ SharedFields:
   Value: "{E15368E1-068D-4614-86E5-41FEE838C4D0}"
 - ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
   Hint: __Subitems Sorting
-  Value: "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}"
+  Value: 
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
@@ -88,7 +88,7 @@ Languages:
       Value: News
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a34649fe-7ba8-4655-bca8-703860e1b7a6"
+      Value: "68f89c23-41d8-4364-ab40-de8db9b5d342"
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

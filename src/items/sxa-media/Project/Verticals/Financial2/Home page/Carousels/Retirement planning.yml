@@ -1,0 +1,17 @@
+﻿---
+ID: "00454e32-1853-454f-b922-eaa8f1174aad"
+Parent: "7d1d2c02-8a38-4fac-9f66-400b9f0f6b18"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Financial2/Home page/Carousels/Retirement planning
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e360164-b6ba-493e-bbdf-8df9a58ed065"

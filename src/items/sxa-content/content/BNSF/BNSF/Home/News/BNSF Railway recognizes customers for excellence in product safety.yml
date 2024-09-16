@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/ffe85417fedf4297a7d47a05d30d8857?v=8ae5c92f" dam-id="BSmIV_ZxToSl1yV8M0MZTg" width="1200" height="800" alt="bnsf-train-port-of-long-beach-ca.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38234/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 500
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -82,7 +82,7 @@ Languages:
       Value: BNSF Railway recognizes customers for excellence in product safety
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "47663c9f-125e-4b16-9318-e23a65e4bd38"
+      Value: "6644809b-6215-4740-831c-45f13ddd6105"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF Railway recognizes customers for excellence in product safety

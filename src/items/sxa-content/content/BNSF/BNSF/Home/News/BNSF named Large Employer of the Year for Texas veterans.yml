@@ -20,7 +20,7 @@ SharedFields:
     <image src="https://chc-fruitful.sitecoresandbox.cloud/api/public/content/27389fce05dd4563a64722838bd6ecfd?v=717edb33" dam-id="_MHFnfvZTBqQ4Tac_qwtDg" width="1200" height="800" alt="bnsf-large-employer-of-the-year.jpg" dam-content-type="Image" thumbnailsrc="https://chc-fruitful.sitecoresandbox.cloud/api/gateway/38223/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 600
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -80,7 +80,7 @@ Languages:
       Value: BNSF named Large Employer of the Year for Texas veterans
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9153af14-c837-4878-84d5-50e262ac3481"
+      Value: "79cc88fd-dfee-4854-bc7f-21d7b82de62a"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: BNSF named Large Employer of the Year for Texas veterans
