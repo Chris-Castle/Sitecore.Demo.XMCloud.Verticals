@@ -4,8 +4,8 @@
   "ref": "c17721fb-8dfe-4ddd-9f1b-bb1c3ea27e64",
   "name": "embedded_{scope}_38c758fee11b4bf49020d596107b3036_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-17T13:28:02.35Z",
-  "revision": 25,
+  "modifiedAt": "2024-09-17T16:34:38.037Z",
+  "revision": 29,
   "archived": false,
   "friendlyId": "embedded_{scope}_38c758fee11b4bf49020d596107b3036_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-17T13:28:02.368Z",
+    "modifiedAt": "2024-09-17T16:34:38.141Z",
     "splits": [
       {
         "template": "{\"variantId\": \"de4d6fb4d08f4ccd978801f498121334\"}",
@@ -58,7 +58,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "c872471c-56bf-4db5-869c-2a6a55cfcc68",
+      "ref": "b23b52d1-b993-4bfb-9134-b4dcecd07e2e",
       "name": "Winter Months",
       "tasks": [
         {
