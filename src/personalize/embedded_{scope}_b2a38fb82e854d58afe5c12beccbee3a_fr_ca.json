@@ -4,8 +4,8 @@
   "ref": "8be94ca7-5275-4ef4-a9c1-273b1c116a8a",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_fr_ca",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-17T16:34:38.834Z",
-  "revision": 20,
+  "modifiedAt": "2024-09-18T15:06:34.307Z",
+  "revision": 22,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_fr_ca",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-17T16:34:38.937Z",
+    "modifiedAt": "2024-09-18T15:06:34.338Z",
     "splits": [
       {
         "template": "{\"variantId\": \"517ebf003adb4815a4658b88f3e68bd6\"}",
@@ -119,7 +119,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "ee5cdec9-3e3c-4bf8-9b33-c01f30f25b8c",
+      "ref": "a3338c2a-b4c6-458d-802a-546ec0012694",
       "name": "Retirement Campaign",
       "tasks": [
         {
