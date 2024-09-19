@@ -2,7 +2,7 @@
 ID: "58ccc562-769f-4573-8520-545f0a3679b1"
 Parent: "0506f115-afcb-4e5b-b938-c0e62254fe77"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/BNSF/BNSF/Data/Heros
+Path: /sitecore/content/BNSF/BNSF/Data/Heroes
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
@@ -14,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a94458c7-341a-46bd-9118-f01c50dca130"
+      Value: "8cfee7d2-db29-415f-a9cc-767b396af0b7"
