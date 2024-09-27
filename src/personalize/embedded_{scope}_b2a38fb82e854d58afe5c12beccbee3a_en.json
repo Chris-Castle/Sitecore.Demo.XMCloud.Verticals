@@ -4,8 +4,8 @@
   "ref": "daa36421-d8da-43fe-a731-d3daf9ace59e",
   "name": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-09-19T13:14:13.395Z",
-  "revision": 24,
+  "modifiedAt": "2024-09-26T14:55:03.598Z",
+  "revision": 26,
   "archived": false,
   "friendlyId": "embedded_{scope}_b2a38fb82e854d58afe5c12beccbee3a_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-09-19T13:14:13.429Z",
+    "modifiedAt": "2024-09-26T14:55:03.617Z",
     "splits": [
       {
         "template": "{\"variantId\": \"5e9637fd02a84b21b5f46c1466e26e17\"}",
@@ -119,7 +119,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "cab54c04-36f8-46df-ac90-c63ea6e4632f",
+      "ref": "82915d20-fdfb-4abc-99f6-1571bc9401c9",
       "name": "Business Page View",
       "tasks": [
         {

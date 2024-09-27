@@ -142,7 +142,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-09-12T03:49:08.085Z",
-        "stagedAt": "2024-09-12T16:43:21.815Z",
+        "stagedAt": "2024-09-12T05:50:55.207Z",
         "publishedAt": "2024-09-12T05:50:55.207Z",
         "modifiedAt": "2024-09-19T13:54:44.78Z",
         "modifiedBy": {
@@ -153,19 +153,7 @@
           "givenName": "Christopher",
           "familyName": "Castle"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "p9C5eEa6Rj",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-19T13:54:22.861Z",
-            "modifiedAt": "2024-09-19T13:54:22.861Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -192,19 +180,7 @@
           "givenName": "Christopher",
           "familyName": "Castle"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "3TlCJ-Fp9y",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-09-19T13:54:54.604Z",
-            "modifiedAt": "2024-09-19T13:54:54.604Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
